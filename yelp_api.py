@@ -31,18 +31,16 @@ def getData():
     api_key = 'ViVcJp0uJf0RJ32VQJKZIDhWxRfSS08elfK4fX31-s8BuL2nUT8h-b50QsPDHbWDOmt3NqAPu8e0rjPhVoupai8KwCGLa6EZmR4nZARu3P2g6k_JpT9-CxQXfguNXnYx'
     headers = {'Authorization': 'Bearer %s' % api_key}
     url='https://api.yelp.com/v3/businesses/search'
-    category_list = ['newamerican','australian','bbq','burgers','chinese','bagels','french','german','italian','bakeries']
-    for value in category_list:
-        params = {'latitude':'40.7465','longitude':'-74.0014','radius':'8047','categories':value}
-        for i in range(10):
-            try:
-                req=requests.get(url, params=params, headers=headers)
-                print("Fetching data from Yelp API...")
-                data = json.loads(req.text)
-                setUpDatabase(data)
-            except:
-                print("Exception")
-                data = {}
-        print('Pausing for a bit...')
-        time.sleep(5)
+    value = str(input("Please enter a Yelp category: "))
+    params = {'latitude':'40.7465','longitude':'-74.0014','radius':'8047','categories':value}
+    try:
+        req=requests.get(url, params=params, headers=headers)
+        print("Fetching data from Yelp API...")
+        data = json.loads(req.text)
+        setUpDatabase(data)
+    except:
+        print("Exception")
+        data = {}
+    print('Pausing for a bit...')
+    time.sleep(5)
 getData()
