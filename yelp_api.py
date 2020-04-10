@@ -2,6 +2,7 @@ import requests
 import json
 import sqlite3
 import time
+import pandas as pd
 
 def setUpDatabase(data,location):
     conn = sqlite3.connect('restaurants.sqlite')
@@ -69,7 +70,7 @@ def setUpDatabase(data,location):
         for i in range(len(restaurant_list)):
             cur.execute("INSERT OR IGNORE INTO World_Trade_Center (restaurant_id,restaurant_name,address,lat,long,rating,price,category,review_count) VALUES (?,?,?,?,?,?,?,?,?)",(restaurant_list[i][0],restaurant_list[i][1],restaurant_list[i][2],restaurant_list[i][3],restaurant_list[i][4],restaurant_list[i][5],restaurant_list[i][6],restaurant_list[i][7],restaurant_list[i][8]))
         conn.commit()
-
+    
 def getData(lat,long_,location,offset):
     api_key = 'ViVcJp0uJf0RJ32VQJKZIDhWxRfSS08elfK4fX31-s8BuL2nUT8h-b50QsPDHbWDOmt3NqAPu8e0rjPhVoupai8KwCGLa6EZmR4nZARu3P2g6k_JpT9-CxQXfguNXnYx'
     headers = {'Authorization': 'Bearer %s' % api_key}
