@@ -1,0 +1,603 @@
+,restaurant_id,location,restaurant_name,address,lat,long,rating,price,category,review_count
+0,cQxtisUT6TgEGSN7gpnTDg,Central Park,Good Enough to Eat,520 Columbus Ave,40.7859436042416,-73.9727859590175,3.5,$$,Breakfast & Brunch,1424
+1,_3QRn51W3IoqBzc9fYet4Q,Central Park,Grazie,26 E 84th St,40.77948,-73.9601,4.0,$$,Italian,455
+2,7gZGVdqMch7ls0IGO3DijQ,Central Park,Agora Turkish Restaurant,1565 2nd Ave,40.77492,-73.95411999999999,4.5,$$,Turkish,549
+3,PnGSE8JGbMZKtdHi9go7Kg,Central Park,The Milling Room,446 Columbus Ave,40.7835485472543,-73.9744088718635,4.0,$$$,American (New),470
+4,DpZBA0-f7Um9lvnp1zZM2A,Central Park,Earl's Beer & Cheese,1259 Park Ave,40.787290000000006,-73.95152,4.5,$$,Bars,598
+5,q2D80--iDkSwf_OKsS-jdA,Central Park,La Pulperia UES,1626 2nd Ave,40.7766202,-73.9523275,4.0,$$,Latin American,734
+6,xTWpl9DgIkkr5B8h8_xUpA,Central Park,Lokal 83 Mediterranean Kitchen,473 Columbus Ave,40.7842696,-73.9734941,4.5,$$,Mediterranean,303
+7,_NS1hEZ0LPwaTG4R6jxgnw,Central Park,Cafe Sabarsky,1048 5th Ave,40.7813294606411,-73.96036863327029,4.0,$$,German,497
+8,7CM15wd5d8WC_pHR674YXA,Central Park,Hummus Kitchen,1613 2nd Ave,40.776365043158705,-73.9529693360589,4.0,$$,Mediterranean,839
+9,N9OihQ22xLyfeDRSZoDCVQ,Central Park,Beyoglu,1431 3rd Ave,40.775419899999996,-73.95623990000001,4.0,$$,Turkish,1142
+10,mWS4umRg2AyykyAClMrIRw,Central Park,The Penrose,1590 2nd Ave,40.775427,-73.953115,4.0,$$,Gastropubs,1178
+11,7gbWC5D0y0ZTUF-WDLwuYw,Central Park,Bluestone Lane,1085 5th Ave,40.7837603758071,-73.9585503779793,4.0,$$,Coffee & Tea,504
+12,5S8ZK9XLdl4l645twbNYZQ,Central Park,Boqueria UES,1460 2nd Ave,40.77149,-73.95602,4.0,$$$,Tapas/Small Plates,727
+13,x5HLJVEOYF-cCmGEZFu9yA,Central Park,The Candle Cafe,1307 3rd Ave,40.771434,-73.95914599999999,4.0,$$,Vegan,911
+14,2f0EWTvp3YDtGNKEEXKKhA,Central Park,Naruto Ramen,1596 3rd Ave,40.78117,-73.9525,3.5,$$,Ramen,932
+15,W5RSIwNKBa7k0jeAs5KDYg,Central Park,Mei Jin Ramen,1574 2nd Ave,40.775048999999996,-73.953553,4.0,$$,Ramen,706
+16,cSRzfprFfAnT1nAcQMgrDA,Central Park,Fred's Restaurant,476 Amsterdam Ave,40.7856233,-73.97670670000001,4.0,$$,Breakfast & Brunch,762
+17,rJJiGJx3kfMAxtD7P7okHQ,Central Park,Celeste,502 Amsterdam Ave,40.78666,-73.97599,3.5,$$,Italian,894
+18,bb4TLfMexv3XPy864A09ug,Central Park,H&H Bagels,1551 2nd Ave,40.774440000000006,-73.95447,4.0,$,Bagels,785
+19,H9GD7km7riFooM0FkdwOPg,Central Park,Calle Ocho,2756 Broadway,40.801264,-73.967663,4.0,$$,Cuban,2504
+20,UJe9_p6NEl0kA6xHVo5PKw,Central Park,Amelie,566 Amsterdam Ave,40.78875,-73.97464000000001,4.5,$$$,French,195
+21,6tGW6KMFB1rLGInE6sB3KA,Central Park,Kaia Wine Bar,1614 3rd Ave,40.7819,-73.95196999999999,4.0,$$,South African,419
+22,1p4dUaLyzIhN5n1lJnHSgA,Central Park,Bustan,487 Amsterdam Ave,40.78590820000001,-73.9759551,4.0,$$,Mediterranean,503
+23,GXh9YpX4v8Wemrq-SPDPhA,Central Park,e's BAR,511 Amsterdam Ave,40.786692073145,-73.9755653589964,4.0,$$,Bars,348
+24,PJeuLlvja4ZKv_tHq_pE1A,Central Park,Heidelberg Restaurant,1648 2nd Ave,40.77742,-73.95172,4.0,$$,German,683
+25,15svH3HiVDwHMSIlRYpk6A,Central Park,Ashoka Indian Restaurant,489 Columbus Ave,40.78477,-73.973027,4.5,$$,Indian,239
+26,sKIYGvENchifk1YwFe77pA,Central Park,Saiguette,935 Columbus Ave,40.79902,-73.96281,4.5,$$,Vietnamese,614
+27,Bt6RoIcazXayp1a8lMSvzA,Central Park,Shalel Kitchen,65 W 70th St,40.7760977,-73.9793291,4.0,$$,Lounges,609
+28,rp_TaJRjaNmOCb8vJ2S_sw,Central Park,Blossom on Columbus,507 Columbus Ave,40.7853146,-73.9728638,4.0,$$,Vegan,376
+29,DCiEo7qucPaEj7Gtdj1U9A,Central Park,Sant Ambroeus,1000 Madison Ave,40.77541,-73.96297,4.0,$$$,Italian,389
+30,3004g82RXwKoqaenSqBVEg,Central Park,George Keeley,485 Amsterdam Ave,40.78583,-73.97596999999999,4.0,$$,American (Traditional),321
+31,77EedCTJY1biWIYSzAulCQ,Central Park,J.G. Melon,1291 3rd Ave,40.77105,-73.95931,3.5,$$,American (Traditional),1275
+32,OiSjFh06dsNonI0cPXMSOw,Central Park,Bondurants,303 E 85th St,40.777291999999996,-73.951854,4.0,$$,Cocktail Bars,468
+33,zGtR4FNGDD1EjdxIzKF-HA,Central Park,Pio Pio 6,702 Amsterdam Ave,40.793007,-73.971535,3.5,$$,Latin American,742
+34,6KcS6hc2j4kJi2XTGxC1eg,Central Park,Bodrum Mediterranean Restaurant,584 Amsterdam Ave,40.78935,-73.97411,4.0,$$,Mediterranean,388
+35,1raNn0l3I4H9PcAJce69Sw,Central Park,Sojourn,244 E 79th St,40.77343,-73.95568,4.0,$$,American (New),631
+36,nF-EOBd_H1fX50iT1EIVZA,Central Park,Pil Pil,265 E 78th St,40.7728412,-73.9558687,4.0,$$,Tapas Bars,590
+37,ojbH3wnRu050hRhkmoxRiA,Central Park,Han Dynasty,215 W 85th St,40.78752,-73.97646999999999,4.0,$$,Szechuan,597
+38,FLRx5tOBMMDJHEUYAAfa8A,Central Park,Caledonia Bar,1609 2nd Ave,40.776327,-73.953213,4.5,$$,Pubs,253
+39,bHGETjP_InKy0sIVHFgHyw,Central Park,Sushi Of Gari,402 E 78th St,40.771370000000005,-73.95275,4.0,$$$$,Sushi Bars,613
+40,kn9rgR4KlvyTTi-s76OIaQ,Central Park,Toloache 82nd,166 E 82nd St,40.77648,-73.95669000000001,4.0,$$$,Mexican,414
+41,Kq6WMwG2kYrYpFF62TiY3A,Central Park,Cafe Noi,1465 2nd Ave,40.771679999999996,-73.95649,4.0,$$,Coffee & Tea,396
+42,bkIMbvXOcztDVz8bpyhMzQ,Central Park,The Dead Poet,450 Amsterdam Ave,40.78499,-73.97735,4.0,$$,Bars,427
+43,vJpfMVBybyEF8p_qXWs0ug,Central Park,Sarabeth's West,423 Amsterdam Ave,40.783879999999996,-73.97743,3.5,$$,Breakfast & Brunch,919
+44,kLJfizeHMQqesp1K9mfUtg,Central Park,Via Quadronno,25 E 73rd St,40.77277,-73.96514,4.0,$$,Sandwiches,523
+45,oRYcCwhPRchQb-aLJ1Pv1Q,Central Park,Sarabeth's East,1295 Madison Ave,40.78481,-73.95575,3.5,$$,American (Traditional),650
+46,puzIKznQzDoq3soyFGFlEg,Central Park,Papaya King,179 E 86th St,40.7790883777847,-73.954070420747,3.5,$,Hot Dogs,566
+47,HUY6yj38FXqAQvWUdgL0xA,Central Park,Sirenetta,568 Amsterdam Ave,40.78881,-73.97459,4.0,$$,Pizza,294
+48,7bD22UAtH56ikWYslOSIQg,Central Park,Calexico - Upper East Side,1491 2nd Ave,40.77259,-73.95588000000001,4.0,$$,Salad,680
+49,3vBVnzsJLRh8WtW3awKxeQ,Central Park,Bodega 88,573 Columbus Ave,40.7875358759796,-73.97113535553221,4.5,$$,Sports Bars,165
+50,1NDrUD3rct843ekECS9Dkw,Central Park,Cafe Lalo,201 W 83rd St,40.7859,-73.9766,3.0,$$,Desserts,1364
+51,E5rmVdrCn-0uwD2M9nkXdw,Central Park,Da Capo,1392 Madison Ave,40.7877696714384,-73.95383846014741,4.5,$$,Wine Bars,196
+52,0sXTHdwbJ_TEZq2WNjmGXw,Central Park,Irving Farm New York,224 W 79th St,40.78334,-73.97952,4.0,$$,Coffee & Tea,569
+53,BEYmqrP1_TC0nhnTGKkkJg,Central Park,Ella Social,249 Columbus Ave,40.7769826,-73.9788067,4.0,$$,Tapas/Small Plates,499
+54,Okbtt-ISFB3kuoxkl2wVgg,Central Park,The Simone,151 E 82nd St,40.77682,-73.95698,5.0,$$$$,French,92
+55,9BzRiWO6PSdR-l3dzCm3VA,Central Park,Buceo 95,201 W 95th St,40.793571,-73.971058,4.0,$$$,Tapas Bars,432
+56,yaBrQbt7kMrbXAo6qrzpYw,Central Park,By the Way Bakery,2442 Broadway,40.791002299999995,-73.9742942,4.5,$,Bakeries,226
+57,iHwhkW0LLlu81ZCir-lFQA,Central Park,Gari Columbus,370 Columbus Ave,40.78112,-73.97632,4.0,$$$$,Sushi Bars,329
+58,fPa-Ai7WucnRd6OcZYHSyg,Central Park,Prohibition,503 Columbus Ave,40.78526,-73.97284,3.5,$$,Bars,387
+59,wSGZA3DOFSUvALZRKCM_Sw,Central Park,Tanoshi Sushi Sake Bar,1372 York Ave,40.767568,-73.952815,4.5,$$$$,Sushi Bars,639
+60,AtUxlW7ltZb73ZXMwpkY_g,Central Park,Sashimi Ramen Express,341 E 78th St,40.772239,-73.954052,4.5,$,Sushi Bars,310
+61,IcEtg4yaHoe9To7Db1irBA,Central Park,Made In New York Pizza,421 Amsterdam Ave,40.783840999999995,-73.97756899999999,4.0,$,Pizza,250
+62,hKdvsbuQRtjajWYwjaoOQw,Central Park,Tavern on the Green,67 Central Park W,40.772194,-73.9776,3.5,$$$,American (New),1466
+63,PTYUAAJbEmvIv4EsyRrcnA,Central Park,Momoya,427 Amsterdam Ave,40.784043,-73.977391,4.0,$$$,Sushi Bars,432
+64,8nXo6lNJlXQQIdy8Kf7J9Q,Central Park,Tessa,349 Amsterdam Ave,40.7814059,-73.97918,4.0,$$$,Mediterranean,379
+65,ZikqL-flwV2XYlKtL2UfmA,Central Park,Rangoli Exquisite Indian Cuisine,1393 A 2nd Ave,40.7693,-73.95823,4.5,$$,Indian,404
+66,oowNI_aUmGEFa_VW8BFgRg,Central Park,Tri Dim Shanghai,1378 3rd Ave,40.773951000000004,-73.957927,4.0,$$,Shanghainese,393
+67,UQGwXsOt9u0uZX0bY6j1kw,Central Park,Kirsh Bakery & Kitchen,551 Amsterdam Ave,40.7879297,-73.97462390000001,4.0,$$,Bakeries,271
+68,_2V0as8DZDwVxAi3ZJ0JkA,Central Park,Raku - It's Japanese II,57 W 76th St,40.779996999999995,-73.976516,4.0,$$,Japanese,314
+69,V3ZvBwLvKBSohMT1j6C-gg,Central Park,William Greenberg Desserts,1100 Madison Ave,40.77854,-73.96069,4.0,$$,Bakeries,237
+70,oB2cpcZNyjDklNqZN0n8hg,Central Park,Sushi Ishikawa,419 E 74th St,40.768783,-73.95389809999999,4.5,$$$$,Sushi Bars,213
+71,VThwGCuC6JVaxAgnmuJDRg,Central Park,Cilantro,485 Columbus Ave,40.784628999999995,-73.97312099999999,3.5,$$,Mexican,427
+72,zVLG_O3AQnvQ53PSJ5mTMA,Central Park,Om Restaurant,1593 2nd Ave,40.77583,-73.95364000000001,4.0,$$,Indian,479
+73,JBthOvTegHbrLDiVaCAy5Q,Central Park,Bigoi Venezia,1415 2nd Ave,40.770036,-73.9577755,4.5,$$,Italian,237
+74,74FFOreAgPphSwSZlfZzgw,Central Park,Jones Wood Foundry,401 E 76th St,40.7703854340118,-73.9535711917713,4.0,$$,Gastropubs,635
+75,Tt9Mkrgd5Zj_ZJEeU0L7Gg,Central Park,Bocado Cafe,1293 Lexington Ave,40.7802514169278,-73.9549089244757,3.5,$$,American (New),458
+76,1TLoaB7SXJZo3W5f4OGm8w,Central Park,Ayurveda Cafe,706 Amsterdam Ave,40.79305,-73.97131999999999,4.0,$$,Indian,315
+77,KifkRh0gGD0voBw4FHFCVA,Central Park,Chirping Chicken,355 Amsterdam Ave,40.78163,-73.9792,3.5,$$,American (Traditional),577
+78,d5ya04K-2A_hI3Xzqe1HeA,Central Park,Caffe Buon Gusto,236 E 77th St,40.772490000000005,-73.95713,4.0,$$,Italian,484
+79,Knbn0h4MA1KX5Fv3eZfK4w,Central Park,Nice Matin,201 W 79th St,40.78337,-73.97847,3.5,$$,French,745
+80,aqQw-FS1EWS5Fx3URh8iqQ,Central Park,Spring Natural Kitchen,474 Columbus Ave,40.784439899999995,-73.97388000000001,3.5,$$,American (New),482
+81,ubjgMch7fGLJNW60M2xilg,Central Park,Dive Bar,732 Amsterdam Ave,40.793975,-73.970809,4.0,$$,Dive Bars,461
+82,9k8dYPFBuG9FGN9C5WAkxw,Central Park,By The Way Bakery,1236 Lexington Ave,40.77793270000001,-73.9569132,4.5,$,Gluten-Free,131
+83,E2zKMwHhz4--dyplQ7gf8A,Central Park,Pappardella,316 Columbus Ave,40.779283299999996,-73.97769670000001,3.5,$$,Italian,582
+84,CDa0GJZDMPcjvhbx7RbG5Q,Central Park,Senn Thai Comfort Food,452 Amsterdam Ave,40.784994563766396,-73.9770103128512,4.0,$$,Thai,269
+85,5XQgZQF-5N94bkQ2d_PJIQ,Central Park,Pascalou,1308 Madison Ave,40.78521,-73.95595,4.0,$$,French,218
+86,RP02PZPNdhfoL-TjOMiKVg,Central Park,Table d'Hôte,44 E 92nd St,40.78447,-73.95581,4.0,$$,French,154
+87,HpjArOwDD0ddcD2cvCDp6Q,Central Park,Little Italy Pizza,2476 Broadway,40.791875192264705,-73.97355414785059,4.0,$,Pizza,279
+88,oSpBTTBYy_sWDXiZF5CSdg,Central Park,Pastrami Queen,1125 Lexington Ave,40.774370000000005,-73.95911,3.5,$$,Delis,510
+89,B87c3bE_u53yNYO1cmHSIw,Central Park,Flor de Mayo,2651 Broadway,40.797859,-73.969948,4.0,$$,Chinese,571
+90,8WSRmH4rsSRJN1jN0qmT_A,Central Park,Café Frida,368 Columbus Ave,40.7808959,-73.97648290000001,3.5,$$,Mexican,667
+91,fL-JDsQ2I_MT7SpwfyHRFg,Central Park,The Meatball Shop,1462 2nd Ave,40.771569,-73.9559804,3.5,$$,American (Traditional),698
+92,jPQWT232CbxOLU3yCpzdqw,Central Park,Duke's,1596 2nd Ave,40.7756878,-73.9531291,4.0,$$,American (Traditional),466
+93,0LKC_M1bumyOcgWgbH9OdQ,Central Park,Crave Fishbar,428 Amsterdam Ave,40.784279999999995,-73.97771999999999,4.0,$$,Seafood,292
+94,t_tWuzMEsoD9GDgAm_0l7g,Central Park,Swagat,411 Amsterdam Ave,40.78353,-73.97782,3.5,$$,Indian,386
+95,IJg3TdXz8IzKTfcspmr8MQ,Central Park,Seasoned Vegan,55 Saint Nicholas Ave,40.800664000000005,-73.95275699999999,4.0,$$,Soul Food,1143
+96,6NcU2JAznLr9dDHp6GgQyw,Central Park,Doaba Deli,945 Columbus Ave,40.7994,-73.9624,4.5,$,Indian,226
+97,MwtXOkRUndPU-ivbtLD-bQ,Central Park,Amura Japanese,1567 2nd Ave,40.775001,-73.9542,4.0,$$,Japanese,315
+98,hVqZ4vihjL1gFTD-KdX-Tw,Central Park,Gennaro,665 Amsterdam Ave,40.791779999999996,-73.9718,3.5,$$,Italian,385
+99,tuP7STBjszTvKcQLeFMnkw,Central Park,The Great Burrito,405 Amsterdam Ave,40.78333,-73.97796,4.0,$$,Mexican,279
+100,Ey45ZiAN1TSVmvfM6DVZqA,Central Park,Persepolis,1407 2nd Ave,40.76984,-73.958015,4.0,$$,Middle Eastern,454
+101,Q6quwwLiwx_47SRd3tItvA,Central Park,Schaller's Stube Sausage Bar,1652 2nd Ave,40.777544,-73.951607,4.0,$$,German,194
+102,et9pAFtSvNOct9Qcmtcf7g,Central Park,Mido Japanese,612 Amsterdam Ave,40.790049100000005,-73.9734598,4.0,$$,Japanese,208
+103,0EIIFAq7YmPk3tgPzVx82g,Central Park,5 Napkin Burger,2315 Broadway,40.787076092443,-73.977925,3.5,$$,Burgers,813
+104,8nmMip_O4vcPDcujTEa_TA,Central Park,Kobeyaki,215 E 86th St,40.77861,-73.9530599,4.0,$$,Sushi Bars,210
+105,bOHWY14f1u8rR1t2ggmbYw,Central Park,B Cafe East,240 E 75th St,40.770919899999996,-73.95759,4.0,$$,Bars,417
+106,-X-jyF6Wblm3R3ExI-6EVg,Central Park,Pasha Restaurant,70 W 71st St,40.7765809,-73.97907909999999,4.0,$$,Turkish,394
+107,eGfpa9r0aGtN3V8ZwgaOEw,Central Park,The Supply House,1647 2nd Ave,40.7775579,-73.95218919999999,4.0,$$,Bars,342
+108,FzK3krlvA4fBHsuagggaIw,Central Park,Hi-Life,477 Amsterdam Ave,40.785573252956,-73.9763537724069,3.5,$$,American (Traditional),321
+109,La78lTOdzTrdFYTGXUp7og,Central Park,Oaxaca Taqueria,424 Amsterdam Ave,40.7841453552246,-73.9778137207031,3.5,$,Mexican,388
+110,UpnHg_984LLZ28-kBB5MSQ,Central Park,Bella Luna,574 Columbus Ave,40.787762,-73.971458,3.5,$$,Italian,277
+111,vOitNGIQx7vEDgRT1W0JCQ,Central Park,Hutch & Waldo,247 E 81st St,40.77485,-73.95428000000001,4.0,$$,Coffee & Tea,188
+112,XxLGYdB0s8IkZ9QZtGKBZA,Central Park,Burger Joint,119 W 56th St,40.7642604687359,-73.978533363932,3.5,$$,American (Traditional),2313
+113,NlgC8TjNuf8sy6qg2xpqsQ,Central Park,Yuka Japanese Restaurant,1557 2nd Ave,40.77463,-73.95447,3.5,$$,Sushi Bars,561
+114,vJXswY5u9rcMRrYZukpMbQ,Central Park,Mad River Bar & Grille,1442 3rd Ave,40.776140000000005,-73.95616,4.0,$$,American (Traditional),333
+115,WqmqQ8c9NivfIRn3sO2KiA,Central Park,The Ribbon,20 W 72nd St,40.776519799999996,-73.9774628,3.5,$$,American (New),399
+116,eq_jhDw9D38RAhyv09axTg,Central Park,Effy's Cafe,104 W 96th St,40.792959,-73.968184,4.0,$$,Cafes,230
+117,fp8X7ERa-0Ot_QD36I4ghw,Central Park,Vino Levantino,210 W 94th St,40.7929478710728,-73.9720784291819,4.0,$$,Mediterranean,234
+118,3P8hb1ZOCA8IjEGfqpSpxg,Central Park,Sfoglia Restaurant,1402 Lexington Ave,40.783535,-73.95271899999999,4.0,$$$,Italian,276
+119,bxju4seaE8hE-HpLrBomgw,Central Park,Eats,1055 Lexington Ave,40.7722,-73.96065,3.5,$$,American (Traditional),430
+120,f_1BjTChf6bobreSRpqhsw,Central Park,Arco Cafe,886 Amsterdam Ave,40.79884620000001,-73.967065,4.5,$$,Italian,262
+121,-Fv6St_t9ScaH2088owNRQ,Central Park,Kings' Carriage House,251 E 82nd St,40.7754843,-73.95373740000001,4.0,$$,American (New),208
+122,4w4O7B0zMnEBzCha36lMPg,Central Park,HARBS - Upper East Side,1374 3rd Ave,40.7738299,-73.95802990000001,4.0,$$,Desserts,262
+123,ggZczl_F-L4FvZk3jpNR3Q,Central Park,Five Mile Stone,1640 2nd Ave,40.7772804,-73.9519665,3.5,$$,American (New),429
+124,WEDQ3ysOS2twleC7TZlmGw,Central Park,The Halal Guys,720 Amsterdam Ave,40.7935457420759,-73.9709761352962,3.5,$,Halal,384
+125,2dow8yoP1KJocKOiMuWOkg,Central Park,BurgerFi,1571 2nd Ave,40.775087552127,-73.95406910806659,3.5,$$,American (New),423
+126,zzVeJukpmXchLTQQhxzQjQ,Central Park,Blondies Sports,212 W 79th St,40.78321,-73.97919,3.5,$$,Sports Bars,453
+127,1_pK5aQ47atF50oAKHADhA,Central Park,Indian Accent,123 W 56th St,40.7643344624229,-73.9787312885132,4.5,$$$$,Indian,571
+128,H87m0azdhuw5uo6Y166uUg,Central Park,Loi Estiatorio,132 W 58th St,40.765384999999995,-73.978002,4.5,$$$,Greek,354
+129,k1zrPPGGMQdlHopP3MnxrQ,Central Park,Storico,170 Ctr Park W,40.779469,-73.973975,4.0,$$$,Italian,201
+130,p2zm0HnXZkI2yCAuYLb45g,Central Park,Thai Market,960 Amsterdam Ave,40.801320000000004,-73.96529,4.0,$$,Thai,991
+131,XL6EJm_QKNnxeGiSJXXbUg,Central Park,Churutto Ramen & Poke,1534 3rd Ave,40.77916,-73.95396,4.0,$$,Ramen,137
+132,oh7XgOSZWRr_T8TO6o9zMw,Central Park,Noglu,1266 Madison Ave,40.78385,-73.95681,4.0,$$,Bakeries,108
+133,0o0s6bUIuy0LTGNR3xYzzw,Central Park,Dos Toros Taqueria,1111 Lexington Ave,40.773950899999996,-73.9594762,3.5,$,Mexican,379
+134,ocnHpILS80DHL--34L8xpw,Central Park,Sushi Noz,181 E 78th St,40.77385,-73.95813000000001,4.5,$$$$,Sushi Bars,95
+135,lP4ynyBoeFPywLg78XkMmw,Central Park,Cibo E Vino,2418 Broadway,40.790206,-73.97491740000001,4.0,$$,Italian,320
+136,xrKa2SpgWzPEEbji3Iw2DQ,Central Park,The Calaveras,949 Columbus Ave,40.79956,-73.96240999999999,4.5,$$,Bars,129
+137,5QszELqJFqeFgpeujfknlQ,Central Park,Filicori Zecchini,2541 Broadway,40.7942,-73.97248,4.0,$,Coffee & Tea,190
+138,0X0cXXEyFa50ptzNpAZNyA,Central Park,Otto's Tacos,1568 3rd Ave,40.7802999,-73.95312,4.0,$$,Tacos,180
+139,ykTc4pZYEAY0Esd0yVFSOQ,Central Park,Vin Sur Vingt,66 W 84th St,40.78492,-73.97291,4.5,$$,Wine Bars,60
+140,lA6IvTF7J8fNC5puhyS3PA,Central Park,Bellini Italian Restaurant,483 Columbus Ave,40.78457,-73.97317,3.5,$$,Italian,248
+141,asW_ljefQQam9zjc9ZQaMw,Central Park,Oslo Coffee Roasters,422 E 75th St,40.76914,-73.95371999999999,4.0,$,Coffee & Tea,247
+142,xGegODk2DyGam3n03Wk1fg,Central Park,The Gin Mill,442 Amsterdam Ave,40.7847,-73.97740999999999,3.5,$$,American (Traditional),394
+143,EJOpdpy6QPTtmC7Fn04yHw,Central Park,Patsy's Pizzeria,61 W 74th St,40.7785204,-73.9769718,3.5,$$,Pizza,501
+144,RkcQl4uEJWblWf4xX8ssqQ,Central Park,Wa Jeal Sichuan Chili House,1588 2nd Ave,40.77536,-73.95317,3.5,$$,Chinese,391
+145,JZvegz9gY9sJwAeDPNvMQA,Central Park,Pitchounette81,245 East 81st St,40.77496,-73.95437,4.5,$$$$,Wine Bars,99
+146,snJZrvebNxanqMmWPhqndg,Central Park,Sashimi Express II,223 E 74th St,40.77068,-73.95849,4.5,$,Sushi Bars,84
+147,4eGCuMwKRCCrYHOobEsFpA,Central Park,Lusardi's,1494 2nd Ave,40.772419899999996,-73.9555,4.0,$$$,Italian,193
+148,FvXuQowHsViFdkpF5M6Xvw,Central Park,Mila Cafe,694 Columbus Ave,40.791465,-73.96891,4.0,$,Breakfast & Brunch,142
+149,mDajKjZjRN4tVGEJFOgF9w,Central Park,Wok 88,1570 3rd Ave,40.78042,-73.95322,3.5,$$,Chinese,282
+150,aZ9N4cUBTp3nNaWAeoSbzA,Central Park,Dig,1297 Lexington Ave,40.78029,-73.95478,4.0,$$,American (New),161
+151,4YeKYQoZHCx2xkbjmNhMbA,Central Park,Burger One,1150 Lexington Ave,40.7752780616283,-73.9587344974279,4.0,$,Burgers,194
+152,AC6vUyOGt8WliqswigZlzQ,Central Park,Dulce Vida Latin Bistro,1219 Lexington Ave,40.77704,-73.95721,3.5,$$,Breakfast & Brunch,251
+153,xwdyPDcF1PifAiXyNnyA5Q,Central Park,Third Avenue Ale House,1644 3rd Ave,40.7828,-73.95129,3.5,$$,American (Traditional),304
+154,QaolMEijS7L6eodSneOdng,Central Park,Tri Dim West,467 Columbus Ave,40.78412,-73.97368,4.0,$$,Shanghainese,91
+155,6XOHtRjdsityvdY0LniKyA,Central Park,Jakes Dilemma,430 Amsterdam Ave,40.78438,-73.97782,3.5,$$,American (Traditional),464
+156,LA7riLKSg-aBLgTY4fT8GQ,Central Park,Sarabeths - Central Park,40 Central Park S,40.765158,-73.975724,3.5,$$,Breakfast & Brunch,1816
+157,6VLeSnx90q9Xgd6aHUO_JQ,Central Park,The Plaza Food Hall,1 W 59th St,40.764223,-73.974561,4.0,$$,Food Court,641
+158,HDoJIH-qW9FqJ5WB-bKTqA,Central Park,MIGHTY Bowl,1109 Lexington Ave,40.7738,-73.95945,4.5,$$,Asian Fusion,92
+159,h1_zWY2PVTZ5ul0RuiJ59g,Central Park,Motorino,510 Columbus Ave,40.7855672,-73.97308170000001,3.5,$$,Pizza,215
+160,L_TG8AAIRmnjj67QRKvgkw,Central Park,Dylan Murphy's,1453 3rd Ave,40.7763,-73.95548000000001,4.0,$$,Irish Pub,170
+161,u8seGm3CnP6RGEiimftUIQ,Central Park,Tenzan,285 Columbus Ave,40.778307915418104,-73.97792069951859,3.5,$$,Sushi Bars,443
+162,C8Ctyq7pXOPESK8cz_X2CA,Central Park,Pomodoro Rosso,229 Columbus Ave,40.776317,-73.979187,3.5,$$,Italian,311
+163,l7OsDvMOO3ji3fg0nT0QzA,Central Park,Tony's Di Napoli,1081 3rd Ave,40.76435,-73.96408000000001,4.0,$$,Italian,666
+164,yNC4kI9Md0Csd6zqr3oeFw,Central Park,The Mark Restaurant,25 E 77th St,40.775355,-73.96333,3.5,$$$$,French,254
+165,Dng_LID2JNnc6M6A1FB19Q,Central Park,Come Prima Ristorante,903 Madison Ave,40.7721165011105,-73.965037390213,4.5,$$$,Bars,84
+166,3pgbgiPTA2WmZ9fsDKlojA,Central Park,La Mirabelle,102 W 86th St,40.786359999999995,-73.97261999999999,4.0,$$$,French,123
+167,-OixbLnFLCzQclxCSbUQ8w,Central Park,Up Thai,1411 2nd Ave,40.7698275926665,-73.9576330868512,4.5,$$,Thai,2259
+168,43r4ynjeIZeQI1w7SWARuQ,Central Park,Topaz Noodle Bar,129 W 56th St,40.764442443847706,-73.9789733886719,4.0,$$,Thai,657
+169,6b68UN9tODBAn_q14xypuw,Central Park,Grill 212,212 W 80th St,40.78402,-73.97887,4.0,$$,Kosher,162
+170,Su-MRJLlxUtjU_-V5viYYA,Central Park,French Roast,2340 Broadway,40.78773220000001,-73.9767123,3.0,$$,French,558
+171,FCoRGys6wgE7fSQ_YAUBeg,Central Park,Donguri Restaurant,309 E 83rd St,40.775724,-73.952431,4.0,$$$,Japanese,143
+172,3Jr_9I2ouYHDNk8XWKdZ3w,Central Park,Sasabune,401 E 73rd St,40.76846,-73.95515,4.0,$$$$,Japanese,389
+173,FIPGiBZOPu2DmHcTdQkt_w,Central Park,Orwashers,440 Amsterdam Ave,40.784690000000005,-73.97759,3.5,$$,Cafes,207
+174,VUcrIqM40HWWb2sxAS9mLA,Central Park,Cesca,164 W 75th St,40.7802345045165,-73.97966980357721,3.5,$$$,Italian,396
+175,sB8-R8-FYj-kJrSzTlbmgw,Central Park,Coppola's West,206 W 79th St,40.783163742430894,-73.97891594232792,3.5,$$,Italian,306
+176,TsYrzVVtkKO4Asrk_L9stw,Central Park,Parm,235 Columbus Ave,40.7764333,-73.97940190000001,3.5,$$,Italian,544
+177,tD1pDzU-x8gGodC4nGnY9g,Central Park,NORMA'S,119 W 56th St,40.7641277134065,-73.97837952271921,3.5,$$$,Breakfast & Brunch,1717
+178,tRIHhPKryUZ56SfIz6mLiA,Central Park,Angelo's Coal Oven Pizzeria,117 W 57th St,40.764920000000004,-73.97794,4.0,$$,Pizza,878
+179,xtfKAP7X36CCZrJm_Ta6Cg,Central Park,The Consulate,519 Columbus Ave,40.78586,-73.97242,4.5,$$$,French,74
+180,vzogJHdiDi8-g3LUU3avng,Central Park,Bar Pleiades,20 E 76th St,40.7743752729741,-73.9638907159386,4.0,$$$,Cafes,88
+181,xGQ26ijvBi9DKVVG7DQOlA,Central Park,Le Moulin a Cafe,1439 York Ave,40.7698415,-73.9519402,4.0,$$,French,331
+182,-9FguycQCvs63l8PJ0QmfQ,Central Park,Ateaz Organic Coffee & Tea Upper East Side,1575 2nd Ave,40.775186,-73.9538946,4.5,$,Coffee & Tea,71
+183,FpgzHQMSNTTjagrKXxOw5A,Central Park,San Matteo Pizzeria e Cucina,1559 2nd Ave,40.7746799,-73.95443,3.5,$$,Pizza,288
+184,M7Bl6U2EjxI-n0ksoYtZ8w,Central Park,Vero,1483 2nd Ave,40.77225,-73.95607,3.5,$$,Wine Bars,297
+185,dWc0ijADaD6ZdclJ5LqQdg,Central Park,Paola's Restaurant,1295 Madison Ave,40.7846546580287,-73.9558692276478,3.5,$$$,Italian,182
+186,Bn1mZhb501Tvf7_-Pfi9_g,Central Park,Korali Estiatorio,1662 3rd Ave,40.78349,-73.95098,4.0,$$$,Greek,198
+187,VKKXe8TdToQN5vXfxj5csg,Central Park,Mani Market Place,697 Columbus Ave,40.791129999999995,-73.96832109999998,4.5,$,Delis,70
+188,eTzH9lmkmouNlmuJ77i8Ow,Central Park,Angaar,283 Columbus Ave,40.7782,-73.97802,4.5,$$,Indian,93
+189,c869kkUkjPM5nSGeJqVosg,Central Park,Ooki Sushi,1575 3rd Ave,40.78029,-73.95254,3.5,$$,Sushi Bars,251
+190,lP8uDU4oNEkPD8-Ik-PvQQ,Central Park,Awadh,2588 Broadway,40.7956041096614,-73.970915160158,3.5,$$,Indian,309
+191,7S8g0G_Ndc3DS-kqsozq8Q,Central Park,83 1/2,345 E 83rd St,40.775354,-73.951216,4.0,$$$,Italian,168
+192,T1CRoZ-f-hwrjdkBvt7_kg,Central Park,Indian Tanpura,564 Amsterdam Ave,40.78869,-73.97468,4.0,$$,Indian,148
+193,S9DvhHSe9V7cJaLQ5m5SjA,Central Park,Good Health Cafe,1435 1st Ave,40.76948,-73.95499000000001,4.0,$$,Cafes,267
+194,pbUj94_m12hdxy06vnsUpA,Central Park,Manhattan Diner,2532 Broadway,40.79365,-73.9722,3.5,$$,Diners,291
+195,wx9mXol6jOrUoAK4vaFS9Q,Central Park,Mission Ceviche,1400 2nd Ave,40.7692325,-73.9578759,4.5,$$$,Peruvian,137
+196,UxeR0yfupdcMPQ2HnAhweg,Central Park,Boilery,710 Amsterdam Ave,40.793209999999995,-73.971396,4.0,$$$$,Seafood,116
+197,B9Mbi12NpBJkZcRtQNtMBA,Central Park,Malaysia Grill,224 W 104th St,40.799479999999996,-73.96775,4.0,$$,Malaysian,283
+198,FLKABU82NNDnCvZSZD75Bg,Central Park,Naruto Ramen,2634 Broadway,40.796856700000006,-73.96987170000001,4.0,$$,Ramen,249
+199,W4UAL78mPBHTdi8G_te9Ew,Central Park,Bonjour Crepes & Wine,1585 2nd Ave,40.775496999999994,-73.953696,3.5,$$,Creperies,220
+200,LvzN8TrUGJRj_UkJV0cAtQ,Times Square,Empanada Mama - Hell's Kitchen,765 9th Ave,40.76441,-73.9885,4.0,$,Latin American,2421
+201,A2DV-AQIXRYUMu5Ak5mjxg,Times Square,Patzeria Family & Friends,311 W 48th St,40.7615,-73.98754,4.5,$$,Italian,1104
+202,NN3mOWF5e_pnR1ArqM2bHQ,Times Square,OBAO,647 9th Ave,40.7606544,-73.991332,4.0,$$,Vietnamese,2586
+203,QObHX0yR6zd0WfksRDbJTA,Times Square,Becco,355 W 46th St,40.76083,-73.98980999999999,3.5,$$$,Italian,2861
+204,OwV-MtDBC2H08rVcBqP2mA,Times Square,Pio Pio 8,604 10th Ave,40.760506289326,-73.99456448890099,4.0,$$,Latin American,2333
+205,YtXl15Nv7TZvV3yIqbZc8A,Times Square,Burger & Lobster,132 W 43rd St,40.755959999999995,-73.98532,4.0,$$,Seafood,1014
+206,KEEXuHCYhsQJ-zpJhu98bA,Times Square,Joe's Pizza,1435 Broadway,40.7545841255557,-73.9870039190341,4.0,$,Pizza,1089
+207,zOmgO8Di9Ui2bQHqSarUKg,Times Square,John's of Times Square,260 W 44th St,40.75823,-73.98836,3.5,$$,Pizza,2167
+208,-udRA8VRsQJoIaT-kxCrGg,Times Square,Ipanema Restaurant,43 W 46th St,40.757072217349,-73.9807795529175,4.0,$$,Brazilian,1379
+209,eRtceh_W_yniAfCqJni5Bg,Times Square,Go! Go! Curry!,273 W 38th St,40.75463,-73.99115,4.0,$$,Japanese Curry,1450
+210,bVkjBJlAIwKAj9Aw1KVWjA,Times Square,Dim Sum Palace,334 W 46th St,40.76015,-73.9893699,4.0,$$,Dim Sum,1249
+211,OFfZUS-nu6NDnsWe1B2bUQ,Times Square,TONCHIN NEW YORK,13 W 36th St,40.750272700000004,-73.98449509999999,4.5,$$,Ramen,1172
+212,VnjcxOUuZAeJMiDIU-7hUQ,Times Square,Churrascaria Plataforma,316 W 49th St,40.76202,-73.98765,4.0,$$$$,Brazilian,1369
+213,oLA02lMIfgvbYquvXzkARw,Times Square,Lillie's Victorian Establishment,249 W 49th St,40.7614625,-73.9860519,4.0,$$,Bars,1454
+214,6lUsFj0KCao678o9L7QwUw,Times Square,Hatsuhana Sushi Restaurant,17 E 48th St,40.75703,-73.97691999999999,4.0,$$$,Japanese,1338
+215,4CObV3XU8VQ6nXeVS4vO0A,Times Square,Margon,136 W 46th St,40.757870000000004,-73.98398,4.0,$$,Cuban,735
+216,VvsZAnEwU4c8Xkyrzx05Nw,Times Square,Anytime,23 W 32nd St,40.74779,-73.98674,4.5,$$,Korean,1394
+217,hk3ohp_A4L4UgWTexDxf_Q,Times Square,Gallaghers Steakhouse,228 W 52nd St,40.762876,-73.983837,4.0,$$$,Steakhouses,1195
+218,UtknyDJ_DPut-FKRqs0wpQ,Times Square,Royal Grill Halal Food,44TH St And 6th Ave,40.75614,-73.98316,5.0,$,Halal,350
+219,ONQRhDuWv0e9R5xOiI7YAA,Times Square,Gyu-Kaku Japanese BBQ,321 W 44th St,40.75908,-73.98989,4.0,$$,Japanese,1231
+220,wjIyCBEpCG_HRp8veiI0YQ,Times Square,Ootoya Times Square,141 W 41st St,40.754870000000004,-73.98599,4.0,$$,Japanese,935
+221,Xjswj531-FkRZPpcccU6kQ,Times Square,Vida Verde,248 W 55th St,40.7650089,-73.983215,4.5,$$,Cocktail Bars,1130
+222,IOHaEgK1zDvUvB3SfKuGCw,Times Square,Parker & Quinn,64 W 39th St,40.752586217581296,-73.9850713153442,4.0,$$,American (New),1355
+223,4nohlTsGHEDdpwYkRTt-fA,Times Square,Rudy's Bar & Grill,627 9th Ave,40.760040000000004,-73.99181999999999,4.0,$,Dive Bars,1097
+224,FKzpfWUpyupl4q74Jt8fTA,Times Square,Don Antonio,309 W 50th St,40.762710999999996,-73.986708,4.0,$$,Pizza,1426
+225,x2ATnp8-hXFhr_XznPYPMw,Times Square,5 Napkin Burger,630 9th Ave,40.76018,-73.991093,3.5,$$,Burgers,2067
+226,1DfbZ0VsSCg9g1KILmnvzQ,Times Square,Per Se,10 Columbus Cir,40.7681528889558,-73.9827629623657,4.5,$$$$,French,1657
+227,StpOKezaW-AyN2xA1EJKvw,Times Square,Victor's Cafe,236 W 52nd St,40.7629499,-73.98403,4.0,$$$,Cuban,1478
+228,VLGmFHE4s0Sfu0piMVQa1Q,Times Square,Hold Fast Kitchen and Spirits,364 W 46th St,40.76064,-73.99023000000001,5.0,$$,Cocktail Bars,323
+229,vjubSxmdG_HoBBgd39geBw,Times Square,Nino's 46,39 W 46th St,40.756915899999996,-73.98051600000001,4.0,$$,Italian,1237
+230,ISxL2HWJNCazHAdy5oblJA,Times Square,Coney Shack,1500 Broadway,40.756776,-73.98566,4.5,$,Food Trucks,293
+231,U0deo-JRQmHrru0uSf6QWA,Times Square,Virgil's Real BBQ - New York,152 W 44th St,40.75685,-73.9851,3.5,$$,Barbeque,1601
+232,JXcYD52B4190gIh6_RSXCg,Times Square,Lilly's Craft and Kitchen,675 9th Ave,40.761379999999996,-73.99070999999999,4.0,$$,Bars,1000
+233,n-hBKsnFFUpe-y00EZrOqg,Times Square,Amy's Bread,672 9th Ave,40.76121,-73.99024,4.0,$,Bakeries,1118
+234,SdESb_kSAV6b0WD813J4WQ,Times Square,Red Poke,600 9th Ave,40.758899299999996,-73.991915,4.5,$$,Poke,541
+235,3Gz07E5YJjDTJPSuzsAStQ,Times Square,Ocean Prime,123 W 52nd St,40.76173,-73.98063,4.5,$$$,Seafood,574
+236,dtnmxLqBnNAfdCN8fYVeLw,Times Square,Room Service,690 9th Ave,40.761759999999995,-73.9898,3.5,$$,Thai,1812
+237,bEXTA_Gwo2oVg4gnFd9fNA,Times Square,Ai Fiori,400 5th Ave,40.750075200000005,-73.9837835,4.0,$$$$,Italian,1262
+238,sSSV7G16yUijp-Peq4fmsA,Times Square,Benjamin Steakhouse,52 E 41st St,40.7518,-73.97896,4.0,$$$$,Steakhouses,1199
+239,I6optu9x0JAf8oT5lqJ8qw,Times Square,Blue Dog Cookhouse & Bar,308 W 50th St,40.762440000000005,-73.98674,4.0,$$,Breakfast & Brunch,1232
+240,pDwhlX9jNBGnjvyGR9jYWQ,Times Square,Gabriel Kreuther,41 W 42nd St,40.754546000000005,-73.982556,4.5,$$$$,Lounges,425
+241,W0k5HHTa7IJsR51Nf7fOmA,Times Square,Times Square Diner,807 8th Ave,40.7614036889404,-73.9869685269328,4.0,$$,American (Traditional),933
+242,06tnwnEQM2j9A6dC3HC_TQ,Times Square,Capizzi,547 9th Ave,40.75744,-73.99356999999999,4.0,$$,Pizza,811
+243,bJgl6cDIBIMlgrntQbxt1g,Times Square,Tomiz,18 E 41st St,40.7523,-73.98043,4.0,$,Japanese,1187
+244,BPyt7S9TdcR1u571iacg7g,Times Square,The Kati Roll Company,49 W 39th St,40.75269,-73.98465999999999,3.5,$,Indian,1531
+245,Ucxhqn56VtC-eYjdNsg7Og,Times Square,Vitae,4 E 46th St,40.75558839999999,-73.9785483,4.0,$$$,American (New),776
+246,H_KyiRhwho8rdlw_R93_0Q,Times Square,Marea,240 Central Park S,40.7674213694566,-73.9810554368179,4.0,$$$,Italian,2034
+247,YC-wGlO0oOkEIaCEDZv-ag,Times Square,Yakitori Totto,251 W 55th St,40.765375,-73.983114,4.0,$$$,Japanese,1308
+248,UBCNhz-TSvBP3zo5PjFWrQ,Times Square,Aureole,135 W 42nd St,40.755587007947604,-73.9852531626821,4.0,$$$,American (New),901
+249,iAoHFfB_T8U31PhIzD-o_g,Times Square,Mastro's Steakhouse,1285 Ave Of The Americas,40.761105,-73.980164,4.0,$$$$,Steakhouses,695
+250,JL_p-OHtSEYVfoeLQQgqDA,Times Square,Casellula,401 W 52nd St,40.764990000000004,-73.98835,4.0,$$,Wine Bars,907
+251,-olla_BldF5Y84I9ezRNdA,Times Square,Hourglass Tavern,373 W 46th St,40.760952,-73.99032690000001,4.0,$$,American (Traditional),769
+252,-J8VuX3wGrYSOBu2G0hMsw,Times Square,Katsu-Hama,11 E 47th St,40.75638,-73.97759,4.0,$$,Japanese,1319
+253,PBUIaPtgnhmdHE3KHglK-g,Times Square,Jean-Georges,1 Central Park W,40.769112274329295,-73.9814290717583,4.5,$$$$,French,1880
+254,unWoFZeSWa0DK1YMekO_Uw,Times Square,Trademark Taste + Grind,38 W 36th St,40.750323394281295,-73.98555663068849,4.5,$$,Venues & Event Spaces,650
+255,-9NO2IDCJMyNGZMAQ1-VQw,Times Square,NY Pizza Suprema,413 8th Ave,40.750205993652294,-73.9953231811523,4.0,$,Pizza,2013
+256,xq0cX_DgxiJMXwhmEl9kUA,Times Square,Café China,13 E 37th St,40.7499225208569,-73.98194641271971,4.0,$$,Szechuan,1619
+257,rKeLuHDI3PQZsPSVCEMHtw,Times Square,Wondee Siam,792 9th Ave,40.76495,-73.98747,4.0,$$,Thai,999
+258,jh42MR1OQFAFMhe_pQEzmw,Times Square,Rustic Table,504 W 42nd St,40.759624,-73.9958265,4.0,$$,Mediterranean,855
+259,z1OgXX3L9Ipl2mu-Hf4ADw,Times Square,VIV,717 9th Ave,40.76277,-73.98969,4.0,$$,Thai,870
+260,FEVQpbOPOwAPNIgO7D3xxw,Times Square,Shake Shack,Madison Square Park,40.741400019723294,-73.98815019045,4.0,$$,Burgers,5576
+261,-Td-YEPTOUq2H3LRWgRxUw,Times Square,Non Solo Piada,302 W 37th St,40.75414,-73.99245,4.5,$$,Italian,342
+262,Z65cd3Z7JvwK8TnSVg-cfA,Times Square,District Tap House,246 W 38th St,40.754090000000005,-73.99039,4.0,$$,Sports Bars,829
+263,ogCC-lJJYnwXDvKGmKZ6Sw,Times Square,Woorijip,12 W 32nd St,40.74747,-73.98648,4.0,$,Korean,2619
+264,XxLGYdB0s8IkZ9QZtGKBZA,Times Square,Burger Joint,119 W 56th St,40.7642604687359,-73.978533363932,3.5,$$,American (Traditional),2313
+265,MOwB9YYd-Ko6nVgSB-ltQw,Times Square,Briciola,370 W 51st St,40.763799704727795,-73.98809194564821,4.0,$$,Italian,839
+266,9YXvNE2jpEhA4k6M8WDH7A,Times Square,Ñaño Ecuadorian Kitchen,691 10th Ave,40.7631,-73.99335,4.5,$$,Latin American,550
+267,xsQTIeq-WLkp4ParkTQpMQ,Times Square,PizzArte,69 W 55th St,40.76293350723721,-73.9776668697596,4.0,$$,Pizza,1089
+268,q7U2GCMWIZxIqWeMDml0LQ,Times Square,Pure Ktchn,352 West 46th St,40.760529999999996,-73.98992,4.5,$$,Salad,300
+269,7EaiwMVaNdQibSs0yYkE5Q,Times Square,Sushi Yasuda,204 E 43rd St,40.751129999999996,-73.97346999999999,4.0,$$$,Japanese,2119
+270,fgtw4swOHXEFwZpBCG05rQ,Times Square,Black Iron Burger,245 W 38th St,40.75427,-73.99031,4.0,$$,Burgers,959
+271,FeSynfcDT4qB2kDixHUQCA,Times Square,Danji,346 W 52nd St,40.764,-73.98686,4.0,$$,Korean,1008
+272,aJqjC4uAo6vhOpsVNCiMDA,Times Square,Samba Kitchen,661 9th Ave,40.76095,-73.99115,4.5,$$,Brazilian,447
+273,ulKoAGcGOdsXgr0o_l6avA,Times Square,Ruth's Chris Steak House,148 W 51st St,40.761438,-73.98232900000001,4.0,$$$,Steakhouses,964
+274,8AM1gGIk6KVb27Q9TYwD9Q,Times Square,Green Symphony,255 W 43rd St,40.7575266,-73.9880669,4.0,$,Vegetarian,467
+275,scjoZtbTQHi35xhAlUm2iQ,Times Square,L'ADRESSE,1065 Ave Of The Americas,40.75403,-73.98539,4.0,$$,American (New),621
+276,ryvBsB9FrBBZDak87iGS1w,Times Square,The Seafire Grill,158 E 48th St,40.7547012104496,-73.972255513072,4.5,$$$,Seafood,1277
+277,7iY35991NhQ1AShJZCNZgA,Times Square,Sakagura,211 E 43rd St,40.7516467024541,-73.9729489318165,4.0,$$$,Japanese,1783
+278,rEbwps11tIERRkwQrIXQog,Times Square,Hakkasan-Temporarily Closed,311 W 43rd St,40.758619,-73.989961,3.5,$$$,Chinese,918
+279,faukkggAc_tuJ4THYlf4fg,Times Square,La Masseria,235 W 48th St,40.760868632783996,-73.98634880286801,4.0,$$$,Italian,598
+280,veku2cg2qaV-7MxwhOMBmg,Times Square,Judge Roy Bean Public House,38 W 56th St,40.7629158108786,-73.9761248066812,4.5,$$,Pubs,748
+281,QAGFu7pqCAZUJkYkUB5pjg,Times Square,Urbanspace,230 Park Ave,40.754622999999995,-73.976605,4.0,$$,Food Court,661
+282,trEnFaHqRkJqtjRvzx7PsQ,Times Square,Dafni Greek Taverna,325 West 42nd St,40.75788,-73.99091999999999,4.0,$$,Greek,950
+283,diCW3Pj1PTVRSyol_d7cZw,Times Square,Chef's Table at Brooklyn Fare,431 W 37th St,40.7561930774282,-73.9966090932068,4.5,$$$$,Japanese,520
+284,K144ThGmoIjX6Wh5-_Rn4Q,Times Square,Ellen's Stardust Diner,1650 Broadway,40.761840079033796,-73.9835502325409,3.5,$$,Diners,1862
+285,uaFHoq-a5XqxF-bsOK9_Qg,Times Square,Real Kung Fu Little Steamed Buns Ramen,811 8th Ave,40.761628663416204,-73.9868181646996,3.5,$$,Chinese,1007
+286,1_pK5aQ47atF50oAKHADhA,Times Square,Indian Accent,123 W 56th St,40.7643344624229,-73.9787312885132,4.5,$$$$,Indian,571
+287,lSQAmoQtmciUld36ogOoOw,Times Square,Cho Dang Gol Korean Restaurant,55 W 35th St,40.750236511230504,-73.986198425293,4.0,$$,Korean,1088
+288,LevaZe9HJHteg4nSp-pt2g,Times Square,Blue Fin,1567 Broadway,40.7593830207211,-73.985327,3.5,$$$,Sushi Bars,1017
+289,SxKvgnkMMZdhBJcxxKQnww,Times Square,Nobu Fifty Seven,40 W 57th St,40.7636210840864,-73.97650486136409,4.0,$$$$,Sushi Bars,1197
+290,a0IET3_yCFcO36OqGSsisg,Times Square,Eataly NYC Flatiron,200 5th Ave,40.741958777959994,-73.98971666283201,4.0,$$,Italian,5498
+291,3omBIylGFJugwLgNgUgOXw,Times Square,BarBacon Hell's Kitchen,836 9th Ave,40.766329999999996,-73.98666,4.0,$$,Gastropubs,1188
+292,JzD9nfJWHwnG-2Wk87muHg,Times Square,Qi,698 9th Ave,40.762,-73.98961,3.5,$$,Thai,1217
+293,Ys9iYSjuFDpZj7B1X07v5g,Times Square,Liberty Bagels Midtown,260 W 35th St,40.75255,-73.99249,4.5,$,Breakfast & Brunch,482
+294,nRO136GRieGtxz18uD61DA,Times Square,Eleven Madison Park,11 Madison Ave,40.7416907417333,-73.9872074872255,4.5,$$$$,American (New),2181
+295,cCesIqo-LQt0cRlZAnrAZQ,Times Square,Friedman's,132 W 31st St,40.748296999999994,-73.990649,4.0,$$,American (New),2449
+296,V3USzFEGhuoXez4G2Rk11A,Times Square,Tavola,488 9th Ave,40.755403,-73.994516,4.0,$$,Italian,958
+297,mhhTORjUdXj-UIDjyGmhBg,Times Square,Estiatorio Milos - Midtown New York,125 W 55th St,40.76368,-73.97922,4.0,$$$$,Seafood,895
+298,9iC39Z1YjZKbrrCANgzBXg,Times Square,Sergimmo Salumeria,456 9th Ave,40.754296000000004,-73.995498,4.0,$$,Italian,672
+299,NMVRHrkdp68twl4CWo1I5A,Times Square,Marseille,630 9th Ave,40.759806,-73.991378,4.0,$$$,French,899
+300,ugIv_ylUdqRIlx6AD8lTJA,Times Square,Basso56,234 W 56th St,40.7655,-73.98267,4.5,$$$,Italian,622
+301,6qcydPo5eTSB4XHyyZDvkA,Times Square,Bareburger,366 W 46th St.,40.760559,-73.990356,4.0,$$,Burgers,907
+302,yZs_A8r0qDz7Z5bR0C-aiQ,Times Square,Black Tap - Midtown,136 W 55th St,40.76347,-73.97978,4.0,$$,Burgers,1183
+303,zwFS-FcGe062to_rWWkLCw,Times Square,Bouchon Bakery,1 Rockefeller Plaza,40.7582232250109,-73.97881059065679,4.0,$$,Bakeries,792
+304,L6DAp6L1ZJKeeDN2PwoOLQ,Times Square,Adel's Famous Halal Food,49th & 6th,40.763940000000005,-73.99193000000001,4.5,$,Middle Eastern,248
+305,mWi1AZgb8HJjDsnz5lXsLA,Times Square,Hunt & Fish Club,125 W 44th St,40.75673,-73.9843,4.0,$$$$,American (New),554
+306,geNwD4ySIwA732eK2CvDZw,Times Square,B Squared,679 9th Ave,40.761550899999996,-73.9906616,4.5,$$,Italian,437
+307,TBp9gdS6xEbSQqffVZ7iag,Times Square,KazuNori  | The Original Hand Roll Bar,15 W 28th St,40.74519,-73.98824,4.5,$$,Sushi Bars,934
+308,LXdblKc5g1Dp17xiV-Am1w,Times Square,Trattoria Dell'Arte,900 7th Ave,40.765295646702,-73.98046281606,4.0,$$$,Italian,1025
+309,dOxHYQmBR14Fa2C1X8oMMQ,Times Square,Sushi Lab NYC,132 West 47th St,40.75851,-73.98321999999999,4.5,$$$$,Sushi Bars,212
+310,oTkzgr7hzOAdlP99Auj3GQ,Times Square,Momosan Ramen & Sake,342 Lexington Ave,40.74993,-73.97746,4.0,$$,Ramen,1637
+311,51YLgpfHKfXxOkDFe9sT-w,Times Square,Balade - Your Way,144 West 37th St,40.7524299621582,-73.9887237548828,4.5,$$,Lebanese,350
+312,Bjv99EWQdyJUGzAZYQ_WOA,Times Square,Bubba Gump Shrimp Co.,1501 Broadway,40.7572071,-73.9863737,3.5,$$,Seafood,1054
+313,8iSU_z2JkjjUEjm-Ur470w,Times Square,Nippori,245 W 51st St,40.7628542,-73.984939,4.0,$$,Tapas/Small Plates,829
+314,neQM053ovAOrf1sVSAPI9w,Times Square,Radiance Tea House and Books,158 W 55th St,40.7639799,-73.98065,4.0,$$,Asian Fusion,850
+315,qCf1QN11Qdncpqb7PhuyVw,Times Square,The Rag Trader & Bo Peep Cocktail and Highball Store,70 W 36th St,40.75059,-73.98628000000001,4.5,$$,Bars,439
+316,eTR6nfHvQzvKX7Dcd6JrfA,Times Square,District Social,252 W 37th St,40.7535743713379,-73.9914321899414,4.0,$$,Bars,702
+317,OxqUWRZFUOz3r6_4bh4mfg,Times Square,Cock & Bull,23 W 45th St,40.756090882367296,-73.9804858350908,4.0,$$,British,543
+318,UB1mGugr1pvgUUP1eTNXrg,Times Square,Stone Bridge Pizza & Salad,16 E 41st St,40.75225,-73.98061,4.5,$$,Pizza,272
+319,ddKmJRZ3D1iS-gbZq03OWQ,Times Square,Friedmans,228 W 47th St,40.7595053740559,-73.9854379268717,4.0,$$,Breakfast & Brunch,566
+320,wJ9VnRlrJJP5QnVohBDjoA,Times Square,Russian Vodka Room,265 W 52nd St,40.763490000000004,-73.9848,4.0,$$,Lounges,546
+321,raqwXUBlnc0e8c7CYmxEJQ,Times Square,Scarpetta,88 Madison Ave,40.744509,-73.9856,4.0,$$$,Italian,1904
+322,CYYLEipRFmr73Hz6XNEzoQ,Times Square,Little Italy Pizza,55 W 45th St,40.756482,-73.981484,4.0,$,Pizza,499
+323,B55Ocx5RBWxo6AGSucYSIA,Times Square,ilili,236 5th Ave,40.74435,-73.98778,4.0,$$$,Mediterranean,2382
+324,8-Ug0Zjs5sL6MARspRJ7CA,Times Square,Bond 45,221 W 46th St,40.7591637016814,-73.9859788257256,3.5,$$,Italian,719
+325,gXnC_aZR09BvqEQKGKFjBg,Times Square,BCD Tofu House,5W 32nd St,40.747503631444005,-73.98624472083209,4.0,$$,Korean,2023
+326,lYIZYnnEpjbWu7ZM-SuCkQ,Times Square,Taladwat,714 9th Ave,40.76262,-73.98935999999999,4.5,$$,Thai,250
+327,JeCtYANe0eqW8xe1SN3lWg,Times Square,Turntable Chicken Jazz,20 W 33rd St,40.74828,-73.98649,4.0,$$,Chicken Wings,2030
+328,Ti-957LNURM0Gy2CXIbQOw,Times Square,Hummus Kitchen,768 9th Ave,40.76427,-73.98796999999999,4.0,$$,Middle Eastern,780
+329,00mykkev3tKCjTsKV60yOA,Times Square,Sushi of Gari 46,347 W 46th St,40.76072,-73.98957,4.0,$$$$,Sushi Bars,680
+330,Fv6ueSQwc_ITpXEhybHvtA,Times Square,Haru Sushi,229 West 43rd St,40.75742253871879,-73.9874100349182,3.5,$$,Japanese,760
+331,eMPpgfTIZt-qEZWO1VzvFw,Times Square,City Kitchen,700 8th Ave at 44th St,40.75874,-73.98846,4.0,$$,Food Court,486
+332,_8Oq6MmhqLgzQDVYXWLxuA,Times Square,Réunion,357 W 44th St,40.75964943513,-73.991308284398,4.0,$$,Cocktail Bars,692
+333,uPe0efNw-uwPybeqccZ1zQ,Times Square,Osteria Al Doge,142 W 44th St,40.75662,-73.9849,4.0,$$$,Italian,473
+334,844H9r0tRQZmxiEtjeTW0A,Times Square,The Bar Room,9 W 53rd St,40.7610309319265,-73.9765593703613,4.0,$$$,Lounges,497
+335,srhEv1OqoK9W5JRdiMWDyw,Times Square,Ayza Wine & Chocolate Bar,11 W 31st St,40.747177472107396,-73.987011312828,4.0,$$,Wine Bars,1674
+336,43r4ynjeIZeQI1w7SWARuQ,Times Square,Topaz Noodle Bar,129 W 56th St,40.764442443847706,-73.9789733886719,4.0,$$,Thai,657
+337,TAANt0fPbfHqVP5LyMBioA,Times Square,Kashkaval Garden,852 9th Ave,40.766758,-73.986144,4.0,$$,Mediterranean,574
+338,v0opDMezc6pKgdfR22KUnQ,Times Square,Da Tang Szechuan,18 W 38th St,40.75128,-73.98376,4.5,$$,Szechuan,233
+339,N4q6Y9cpvUbJ3O5rydrSbQ,Times Square,Shorty's,576 9th Ave,40.758103000000006,-73.992529,4.0,$$,Bars,686
+340,k7n_31GE1Yq1KD77_DO1Tw,Times Square,Chick-fil-A,1000 Avenue Of The Americas,40.751726,-73.9860817,4.0,$,Fast Food,581
+341,qY1o1MhoRyN84RRhUJtvpQ,Times Square,Her Name Is Han,17 E 31st St,40.74626,-73.98473,4.0,$$,Korean,1194
+342,1z5Nu66M6W8mk5Ap4osZwA,Times Square,The NoMad Restaurant,1170 Broadway,40.7449,-73.98848199999999,4.0,$$$,French,1477
+343,Ve6GVzzJpR5QIIPdcn6ViQ,Times Square,Mercato,352 W 39th St,40.756190000000004,-73.9937,4.0,$$,Italian,884
+344,9yc2V6zNpLG58uPV_ykBog,Times Square,Boqueria West 40th St,260 W 40th St,40.75558,-73.99011999999999,4.0,$$,Tapas/Small Plates,399
+345,tD1pDzU-x8gGodC4nGnY9g,Times Square,NORMA'S,119 W 56th St,40.7641277134065,-73.97837952271921,3.5,$$$,Breakfast & Brunch,1717
+346,qYqe-kArMUebiEvxUPUlVg,Times Square,The Picnic Basket,65 W 37th St,40.75162460000001,-73.9858858,4.0,$$,Cafes,442
+347,QH9vS9_Q5um3b8sZntZiyw,Times Square,The Jolly Goat Coffee Bar,515 W 47th St,40.76330106441029,-73.99419283345179,4.5,$,Coffee & Tea,341
+348,wrFoBJM9SsHIfz2VaqgmSg,Times Square,Dallas BBQ,241 W 42nd St,40.756983585918896,-73.9888188242912,3.0,$$,Barbeque,1773
+349,-QIPdiq5ILg_EJqdVoCqEA,Times Square,Istanbul Kebab House,712 9th Ave,40.76256,-73.98940999999999,4.0,$$,Turkish,542
+350,u-MUL83NUy2gsbV80WZnAA,Times Square,The Marshal,628 10th Ave,40.76122,-73.99396,4.0,$$$,American (Traditional),726
+351,ryng69yOCoveA68KE6jl-Q,Times Square,STK Midtown,1114 Avenue Of The Americas,40.754669,-73.98285,3.5,$$$,Steakhouses,981
+352,wRHUJ69-f4CiV5BRY72mUg,Times Square,Aqua Boil,750 9th Ave,40.763702,-73.988386,4.5,$$,Seafood,230
+353,S-BwjmHOZ--bC4nUR4-cmA,Times Square,Oceana,120 W 49th St,40.759797124856796,-73.9825657859833,4.0,$$$,Seafood,532
+354,h4VCnZ2aZ33mdenS_ZI7jQ,Times Square,Mama Mia 44 SW,621 9th Ave,40.759761,-73.992065,4.0,$$,Pizza,581
+355,qs5aBgcT2v1BFlW-XqQS0Q,Times Square,Biryani Cart,46th St & 6th Ave,40.757403000000004,-73.9822503,3.5,$,Indian,542
+356,228DO__YwYmliMx6Q5jTtw,Times Square,Turco Mediterranean Grill,604 9th Ave,40.75913,-73.9918,4.0,$$,Mediterranean,556
+357,MwcRbM6lS6_8N67LmyBELA,Times Square,99 Cent Fresh Pizza,1723 Broadway,40.76458,-73.98246999999999,4.0,$,Pizza,520
+358,AT12PEBFRWFox6l2tr7w4w,Times Square,Junior's Restaurant & Bakery - 49th St.,1626 Broadway,40.76095,-73.98412990000001,3.5,$$,American (Traditional),693
+359,Nz3ednIoYXg1NwOn7jnTOQ,Times Square,The Counter,7 Times Square,40.7554585,-73.9869055,3.5,$$,Burgers,884
+360,MvmuCDXPliFUYJ7B7Y02AA,Times Square,Menkui-Tei,58 W 56th St,40.763259999999995,-73.97706,3.5,$$,Ramen,1050
+361,Jhx4OoFjXFp0YxqbW0KQog,Times Square,Butter Midtown,70 W 45th St,40.7562781,-73.9823303,3.5,$$$,American (New),1011
+362,goqTQ4tOD-asC_ZJBW9l7w,Times Square,Patsy's Italian Restaurant,236 W 56th St,40.76553,-73.98274,4.0,$$$,Italian,912
+363,432F7ulSgnm1fNyefqgrNw,Times Square,Strip House,15 W 44th St,40.75529820928271,-73.98068987648001,4.0,$$$$,Steakhouses,535
+364,BqKuDTR5UfzaXA39_wH3Yg,Times Square,Fresh From Hell,326 W 47th St,40.7608265,-73.9889803,4.5,$$,Salad,261
+365,0vSAR3Ym2fuehBvHSZyqIQ,Times Square,Koi Restaurant,40 W 40th St,40.752987,-73.983824,3.5,$$$,Sushi Bars,760
+366,XK8DnTYgZGoZKuihH4_cpg,Times Square,Taboon,773 10th Ave,40.7661052157931,-73.99098937177129,4.0,$$$,Middle Eastern,654
+367,u5gLdI6l6zsPxL2kOYbyfw,Times Square,Nizza,630 9th Ave,40.76018,-73.99113,3.5,$$,Italian,749
+368,PAJdNrD4HFBN16OAFeDx4A,Times Square,Ponche Taqueria & Cantina,420 W 49th St,40.76319,-73.99045,4.0,$$,Mexican,495
+369,mZh8dgA3JKx8SL5dFWAJkQ,Times Square,BXL Cafe,125 W 43rd St,40.75618,-73.98461,3.5,$$,Pubs,523
+370,rA4CDLdNtwnszjGT_KWzPQ,Times Square,Kahve,786 9th Ave,40.764829999999996,-73.98774,4.0,$,Cafes,552
+371,ue-iu3tMiHAv7JR0YuhOww,Times Square,Hell's Kitchen,754 9th Ave,40.7638823425707,-73.9884334000586,4.0,$$,Mexican,411
+372,fUcjBGgmTlvxXn2azvAijw,Times Square,Yumpling Food Truck,,40.7602691650391,-73.9801940917969,4.5,$$,Taiwanese,111
+373,tRIHhPKryUZ56SfIz6mLiA,Times Square,Angelo's Coal Oven Pizzeria,117 W 57th St,40.764920000000004,-73.97794,4.0,$$,Pizza,878
+374,K_nsaXmlsyg0I8PoIjPXrA,Times Square,Morton's The Steakhouse,551 5th Ave,40.755215299999996,-73.9787657,4.0,$$$$,Steakhouses,515
+375,3o0W7asUgP7EEKn8iFWFyA,Times Square,Casa Nonna,310 W 38th St,40.75496,-73.99247,4.0,$$$,Italian,542
+376,BxNs9d8rEW3Tls-nVdmIgA,Times Square,Reichenbach Hall,5 W 37th St,40.7508,-73.98401,4.0,$$,Bars,756
+377,kC6VZfrwFvav9PryA3eRCA,Times Square,Bar SixtyFive,30 Rockefeller Plz,40.7591284113218,-73.97967032040859,4.0,$$$,Cocktail Bars,343
+378,bS5PXrKty7EExK8tie0GJQ,Times Square,Tender Steak & Sushi,130 W 47th St,40.75844,-73.98306,4.0,$$$,Sushi Bars,343
+379,IFZ3_d01uflGixWrrD8_gg,Times Square,Ariana Afghan Kebab Restaurant,787 9th Ave,40.76515,-73.98813,4.0,$$,Afghan,482
+380,cxtg17yy1YFt8gHRckUQcw,Times Square,Num Pang Kitchen,140 E 41st St,40.7503831245874,-73.9761078759491,4.0,$$,Cambodian,1120
+381,pb_ryc8FYHpUPV56eV2Eyg,Times Square,Brooklyn Bagel & Coffee Company,286 8th Ave,40.746183,-73.997642,4.0,$,Bagels,1429
+382,KIIYvTOc0Uv90aUHEGvoSg,Times Square,La Grenouille,3 E 52nd St,40.75972,-73.97555,4.0,$$$$,French,434
+383,ZyfOt84HvbX4FsqGLOZqCw,Times Square,Schnipper's,620 8th Ave,40.756399490553996,-73.9901816374344,3.5,$$,Burgers,966
+384,xWUL-j6TQyKQHIfOtetu-Q,Times Square,HanGawi,12 E 32nd St,40.746736999999996,-73.984662,4.0,$$$,Vegetarian,1164
+385,oY-tooKEm8F-6Il1JOQzKg,Times Square,Souvlaki GR,162 W 56th St,40.76465,-73.98029,4.0,$$,Greek,631
+386,bpOgimL_paWkF1AusXE8cA,Times Square,The View Restaurant & Lounge,1535 Broadway,40.758992,-73.986326,3.0,$$$$,Lounges,1082
+387,XoDR_T-ZKYJtZgCocEDcyA,Times Square,Print,653 11th Ave,40.764520000000005,-73.99586,4.0,$$$,American (New),891
+388,bjzBkF2FFMsdkCk50xseFQ,Times Square,Etcetera Etcetera,352 W 44th St,40.75926,-73.99115,4.0,$$$,Italian,428
+389,BF6pY829iPBERt15CG1g3w,Times Square,At Nine Restaurant & Bar,592 9th Ave,40.758697,-73.992064,4.0,$$,Thai,484
+390,PGpCaNkB1meojnbgRmb2gQ,Times Square,Buena Vista Restaurant & Bar,536 9th Ave,40.756859999999996,-73.99356,4.5,$$,Latin American,182
+391,v0DwpyNrKeS2ZhfMjVu8lg,Times Square,CajunSea & Oyster Bar,32 W 33rd St,40.7483352,-73.98677009999999,4.0,$$,Cajun/Creole,1230
+392,HuSaFUqMDLbovpU-XbR9UA,Times Square,The Original Soupman,259A W 55th St,40.765361172149895,-73.9834392665359,4.0,$,Soup,477
+393,iq9_CMtUT1SwGcEL8fSDNQ,Times Square,R Lounge at Two Times Square,"Two Times Square, 714 Seventh Avenue at W. 48th Street",40.759683705851,-73.9845943450927,4.0,$$,Lounges,332
+394,eTpbkIg-vRjDWs6ua7LfFA,Times Square,Crisp,110 W 40th St,40.753698,-73.985967,4.0,$$,Mediterranean,398
+395,zR92VSkXj1rt5KTJ15bkAw,Times Square,Benjamin Prime,23 E 40th St,40.7514936031,-73.9798496845097,4.5,$$$$,Steakhouses,299
+396,yrXECkTezsI0Twgalc7M-A,Times Square,Bolivian Llama Party,1000 S 8th Ave,40.694983,-73.991036,4.5,$,Food Stands,348
+397,D924bgYbBg-WN8PCCBXhEw,Times Square,St Kilda Coffee,328 W 44th St,40.7588882446289,-73.9902648925781,4.5,$,Cafes,189
+398,jDIVPYpxQAk1HUAi0NIlQw,Times Square,Pazza Notte,1375 Avenue Of The Americas,40.763509899999995,-73.97800000000001,4.0,$$,Italian,791
+399,_saXnBy0Wq2Gb3YusWZhqw,Times Square,Five Senses,9 W 32nd St,40.747573158626,-73.9863122632311,4.0,$$,Korean,1423
+400,c8FID4VcTtDDONokhACvfQ,Times Square,O'Lunney's,145 W 45th St,40.75759,-73.98438,4.0,$$,Irish,396
+401,luA6pI0K6AWU_ivxqykdiA,Times Square,44 & X Hell's Kitchen,622 10th Ave,40.7611032,-73.9941787,3.5,$$,American (New),881
+402,FvCslLyo0SlDKI52bEDekQ,World Trade Center,Nish Nush,41 John St,40.709472,-74.007949,4.5,$$,Vegetarian,294
+403,hAmf5Tfs0OhllZHAmO-12g,World Trade Center,Tartinery Hudson Eats,225 Liberty St,40.712338,-74.01588000000001,4.0,$$,French,368
+404,7NqFIuXuRwm6WuuseLxAVw,World Trade Center,Delmonico's,56 Beaver St,40.70507,-74.01019000000001,4.0,$$$$,Steakhouses,1060
+405,LpVbI-E9C-CSp7WhU5h2Iw,World Trade Center,Fishmarket Restaurant,111 South St,40.70717,-74.00192,4.5,$$,Seafood,547
+406,Vs-3byrsBYwd_Cnfl0CyFw,World Trade Center,Bubby's Tribeca,120 Hudson St,40.719811799999995,-74.0083092,3.5,$$,American (Traditional),1377
+407,iXSuNKKUBIrBX7zUerlQDQ,World Trade Center,Benares,45 Murray St,40.71415,-74.009209,4.0,$$,Indian,507
+408,hvrQQ0YWqgw0__OnofqXag,World Trade Center,Kuu Ramen,20 John St,40.709678600000004,-74.0089569,4.0,$$,Ramen,652
+409,WYhRkUATHRyXZrE55MArbA,World Trade Center,Scalini Fedeli,165 Duane St,40.7173964385114,-74.00932775374591,4.5,$$$$,Italian,311
+410,_z2_1TE_1brlvljiGtJ4mA,World Trade Center,Aahar Indian Cuisine,10 Murray St,40.71334,-74.0081,4.5,$$,Indian,315
+411,MHtbBc2np3sR7jiV9GphNg,World Trade Center,Tribeca's Kitchen,200 Church St,40.7162705535921,-74.00722259279121,4.0,$$,American (New),504
+412,pNYcGGAj4AYaExlmrEmfUw,World Trade Center,Harry's,1 Hanover Sq,40.704512,-74.009834,4.0,$$$,Steakhouses,688
+413,ooYUO3Pq_qypc1NXFzeLYQ,World Trade Center,City Vineyard,233 West St,40.720558200000006,-74.0118093,4.0,$$,Wine Bars,833
+414,ohLIPmzTysowInbte9XhMw,World Trade Center,The Malt House,9 Maiden Ln,40.709659,-74.00926199999999,4.0,$$,Gastropubs,518
+415,wP0s8Jv2eFRMfjFj7isYUw,World Trade Center,Mulberry & Vine,73 Warren St,40.7150751,-74.01013420000001,4.0,$$,American (New),316
+416,rZIMlQ76I0mXL8uNii_wVg,World Trade Center,Atera,77 Worth St,40.71694,-74.0057,4.5,$$$$,American (New),259
+417,ZnhRUBos9FGQZrzbcPn6Vg,World Trade Center,O'Hara's Restaurant and Pub,120 Cedar St,40.7093473589949,-74.0122557367896,4.0,$$,Irish Pub,463
+418,0laCKZiHrdM_ZKdhTFbGgg,World Trade Center,Sauce & Barrel,97 Washington St,40.707999,-74.01426509999999,4.0,$$,Bars,410
+419,bJdS98j_HTfyg-xUlu6V5A,World Trade Center,Dark Horse,17 Murray St,40.713718,-74.008036,4.0,$$,American (Traditional),395
+420,Uv13OfDr0fm5Jk2Dk4uFvQ,World Trade Center,Hank's Juicy Beef,84 Chambers St,40.7143487,-74.0072147,4.5,$$,American (New),249
+421,N-M-c8yQFqGW1jn_tdCzPg,World Trade Center,Sam's Falafel Stand,Cedar St And Broadway,40.70903968196271,-74.01133809154429,4.5,$,Falafel,194
+422,P2CTp4xyaNCe2AXSiLeOSQ,World Trade Center,The Odeon,145 W Broadway,40.71692,-74.00792,4.0,$$$,American (New),640
+423,nm5rcWNmfevNXLNQAITi5w,World Trade Center,Clinton Hall,90 Washington St,40.70803,-74.01486899999999,3.5,$$,Bars,646
+424,V75gQDPzAwaqLmjSn-t9DQ,World Trade Center,Eggloo,60 Mulberry St,40.7155497342652,-73.9993924610537,4.0,$,Desserts,896
+425,IUvJ8jmojYu1FsOQ0PfFcg,World Trade Center,Aquagrill,210 Spring St,40.7253545576709,-74.0037010931698,4.0,$$$,Seafood,1361
+426,6gDUVNZo0E9lxO2DkAhHOQ,World Trade Center,The Greek,458 Greenwich St,40.7237145,-74.0096166,4.5,$$$,Greek,481
+427,d-DQwNxs77Pah2ys0q7w1Q,World Trade Center,American Cut Steakhouse Tribeca,363 Greenwich St,40.71915,-74.00994,4.0,$$$$,Steakhouses,583
+428,RW-v9cm9rQZS9cSihuXfvw,World Trade Center,Brandy Library,25 N Moore St,40.720073,-74.007227,4.0,$$$,American (New),602
+429,uoT2_Wrt1noD6kZOID7tUg,World Trade Center,Jane,100 W Houston St,40.72732,-74.00026,4.0,$$,Breakfast & Brunch,3149
+430,8uuMkezIN1c8zGEWkaMRqg,World Trade Center,Los Tacos No. 1,136 Church St,40.714282,-74.008675,4.5,$,Tacos,143
+431,MeUq9lombxM9alxs64tejQ,World Trade Center,Pepolino Restaurant,281 W Broadway,40.720756,-74.004885,4.0,$$$,Tuscan,548
+432,alFl7eiu6Go-YxZAdp88Fw,World Trade Center,Go! Go! Curry!,12 John St,40.7098966,-74.0090997,4.0,$$,Japanese Curry,364
+433,kVrTff8uDMSBAaceBwQ7dg,World Trade Center,Saluggi's,325 Church St,40.720104,-74.003578,4.0,$$,Pizza,558
+434,L-IuiVoFMDSw2K6OAciP1g,World Trade Center,Mamoun's Falafel,119 MacDougal St,40.7302874,-74.00043829999998,4.0,$,Middle Eastern,2383
+435,t4B9GkAuiYIjFCt9SlK3EQ,World Trade Center,Poke Bowl,104 Fulton St,40.709569,-74.0068345,4.0,$$,Poke,306
+436,_0WFGjXuenlBixOlbSlGeQ,World Trade Center,Crown Shy,70 Pine St,40.7063449,-74.0076944,4.5,$$$$,American (New),269
+437,3uJ-wOpTZHd4dsIjMbmYgQ,World Trade Center,Thalassa Restaurant,179 Franklin St,40.719308500000004,-74.0095971,4.0,$$$,Seafood,408
+438,bdKc4CSJPv-XLgxVwrtPrg,World Trade Center,Forlini's Restaurant,93 Baxter St,40.71695,-73.99956999999999,4.5,$$$,Italian,446
+439,7Qvh0oFRsoqrO9qNlcMKXQ,World Trade Center,Saigon Shack,114 Macdougal St,40.729690000000005,-74.000629,4.0,$,Sandwiches,2382
+440,qzdCvtgpCDjNVV_zRJB5EQ,World Trade Center,Voyager Espresso,110 William St,40.708872,-74.006695,4.5,$,Coffee & Tea,131
+441,U74_3F7r3tMhd6dmTmDBxQ,World Trade Center,Macao trading,311 Church St,40.719623,-74.003904,4.0,$$$,Asian Fusion,751
+442,uc5qQMzs96rzjK27epDCug,World Trade Center,Joe's Pizza,7 Carmine St,40.730554,-74.002136,4.0,$,Pizza,2536
+443,obFs12x7mgYPGxgalBd22w,World Trade Center,Le Coucou,138 Lafayette St,40.71909,-74.00013,4.0,$$$$,French,563
+444,yoPMDATGXh_8NR7I0SW1gw,World Trade Center,Manhattan Proper,6 Murray St,40.713341940631,-74.0080507346,4.0,$$,Sports Bars,338
+445,0GN6l4FAknTFSWZhEan45A,World Trade Center,GunBae,67 Murray St,40.714683,-74.010223,4.0,$$,Korean,283
+446,7qYeyW9_dxnbaBCFUXGk_A,World Trade Center,Stage Door Pizza,26 Vesey St,40.7120047333763,-74.0096561511938,4.0,$,Pizza,245
+447,q2VwOuFDRJyIUfUFy8HQzg,World Trade Center,Suspenders Restaurant & Bar,108 Greenwich St,40.70857,-74.01347,4.0,$$,Gastropubs,257
+448,VaL9GaBR_GR-q9d1VzJF3g,World Trade Center,Suteishi,24 Peck Slip,40.707879999999996,-74.00194,4.0,$$$,Japanese,490
+449,j8DFd-bxnvM_UfHnDLIA0g,World Trade Center,Woodrow's,43 Murray St,40.71411129999999,-74.009201,4.0,$$,American (Traditional),330
+450,c1kKAH9XMPNeaBhvnIP0FQ,World Trade Center,Trinity Place,115 Broadway,40.708865,-74.01116999999999,4.0,$$,Bars,379
+451,0k678lCWQyReNi0lARlOmw,World Trade Center,China Blue,135 Watts St,40.724038,-74.009958,4.0,$$,Shanghainese,707
+452,jjLcqGI11ThxAhcftEh1Aw,World Trade Center,Fraunces Tavern,54 Pearl St,40.70344,-74.01135,3.5,$$,American (Traditional),873
+453,A0saPXtRGKl-SVJGQyQAOw,World Trade Center,Brooklyn Chop House,150 Nassau St,40.711509899999996,-74.00596999999999,4.0,$$$,Dim Sum,424
+454,0Q3xCYWK2N-wJfXjLa9dFg,World Trade Center,Bâtard,239 West Broadway,40.71955330398129,-74.00579828952009,4.0,$$$$,Modern European,405
+455,rvoyaPumkhL5FA2zTqk13w,World Trade Center,Sandwich House,17 Ann St,40.71096,-74.0077699,4.0,$,Sandwiches,266
+456,yFub1BhKEP-W-_ZM3_nJoQ,World Trade Center,Bodhi Kosher Vegetarian Restaurant,77 Mulberry St,40.716409999999996,-73.99931,4.0,$$,Vegan,373
+457,xyBTcpnkIxV2h0AKU0pP0Q,World Trade Center,Thái Son,89 Baxter St,40.716770000000004,-73.9995,3.5,$$,Vietnamese,854
+458,Hv5v8y3fvu6PjPiFf4jPVQ,World Trade Center,Trading Post,170 John St,40.7059604,-74.0041871,4.0,$$,American (Traditional),425
+459,vec8jeVbbSGzVlStl0Xp_Q,World Trade Center,Chikarashi,227 Canal St,40.71787,-73.99948,4.0,$$,Japanese,486
+460,hFZ5qw8gvWiBUbmbahSalg,World Trade Center,Wolfgang's Steakhouse,409 Greenwich St,40.72110870000001,-74.0098128,4.0,$$$$,Steakhouses,550
+461,ED2I3t5rOf81cddCsLA4tw,World Trade Center,Terroir Tribeca,24 Harrison St,40.718804998517,-74.0099987815497,4.0,$$,Wine Bars,284
+462,PYcL2z9gHj6-ZTlViT9Nqw,World Trade Center,Minetta Tavern,113 Macdougal St,40.7300047976758,-74.0006073834151,4.0,$$$,French,2190
+463,SKoMUaQewpMdj1Mg8QvBNw,World Trade Center,Nobu Downtown,195 Broadway,40.711203000000005,-74.00887900000001,3.5,$$$$,Japanese,392
+464,sLxHi6kOAEV6iqr45jzb_Q,World Trade Center,B Flat,277 Church St,40.7185644131449,-74.0048434404755,4.0,$$,Lounges,363
+465,zGAQqDu0Ak2khVYs9WdQxw,World Trade Center,Sushi Nakazawa,23 Commerce St,40.7317465228689,-74.0045493828034,4.5,$$$$,Japanese,1388
+466,QvQilClGyuKFz08TBsoJNA,World Trade Center,Le District,225 Liberty St,40.712647361798396,-74.0157784596443,3.5,$$,French,545
+467,LF1QAuvpfX7KGQlg2zMg6Q,World Trade Center,John's of Bleecker Street,278 Bleecker St,40.73158,-74.00332,4.0,$$,Pizza,2014
+468,DTKKEogIt2wQm4UULYVGug,World Trade Center,Mad Dog & Beans Mexican Cantina,83 Pearl St,40.704168,-74.010261,3.5,$$,Mexican,936
+469,suEoAFFWEj-RA3smDVqDbA,World Trade Center,Morton's The Steakhouse,136 Washington St,40.7097005194611,-74.0139538049698,4.0,$$$,Steakhouses,245
+470,ki9q3O-qk1YE-e2Uw1b5tA,World Trade Center,Nha Trang One,87 Baxter St,40.71671,-73.99952990000001,3.5,$$,Vietnamese,744
+471,XkL6fOBtaIqVCMXVCY9row,World Trade Center,H K Wonton Garden,79 Mulberry St,40.716468811035206,-73.9992752075195,3.5,$,Cantonese,739
+472,k8GFfCXO2FIIJIo0ICYSRA,World Trade Center,Bao Bao Cafe,106 Greenwich St,40.70854,-74.01366999999999,4.0,$,Noodles,189
+473,3hRE9hN7Yp9AHJD8ahAVDQ,World Trade Center,MarkJoseph Steakhouse,261 Water St,40.70837,-74.00152,4.0,$$$$,Steakhouses,407
+474,vQXtCgUabVsw5L1TJtnslw,World Trade Center,Sarabeth's Tribeca,339 Greenwich St,40.7183455,-74.0102912,3.5,$$,Breakfast & Brunch,700
+475,yZJbealagfujEkgesAl2hA,World Trade Center,Lupa,170 Thompson St,40.7276,-74.000045,4.0,$$$,Italian,1529
+476,AIKjw2QLvVNdha3TciJYzg,World Trade Center,Boqueria Soho,171 Spring St,40.724911999999996,-74.00212990000001,4.0,$$,Spanish,1005
+477,6-ShONYFIM9K8HAUOhZVlw,World Trade Center,Da Mikele by Luzzo's,275 Church St,40.718477,-74.004802,4.0,$$,Italian,344
+478,aZ0S4F4RG3b4sYkkZbzwkw,World Trade Center,PROOF Coffee Roasters,65 Nassau St,40.709487,-74.008651,4.5,$,Coffee & Tea,107
+479,O6LArju5DvLrGNrvErieVA,World Trade Center,Bluestone Lane,30 Broad St,40.7063436944471,-74.01182954299159,4.0,$,Coffee & Tea,251
+480,L5eqJRy8Yx_4El6rUxWmBw,World Trade Center,El Vez Burrito Bar,259 Vesey St,40.714735637679205,-74.015635,4.0,$$,Mexican,133
+481,twHJyFgUSd7wzioKQjE7Jw,World Trade Center,Galli,45 Mercer St,40.72161,-74.00126999999999,4.0,$$,Italian,930
+482,s-Fg5eHqv4VCAn2ANkHiZA,World Trade Center,Leo's Bagels,3 Hanover Sq,40.7048928861349,-74.00972180481841,3.5,$,Coffee & Tea,867
+483,kDJbzzmCEjFbyDQ-lSygvw,World Trade Center,Fresh Salt,146 Beekman St,40.70707,-74.00244,4.0,$$,Bars,394
+484,ZgyvDF_hOWas3SXe0Hj7hA,World Trade Center,Schilling,109 Washington St,40.70857,-74.014,4.0,$$,Austrian,154
+485,J0OeDwmh5JBhid0A5GvltA,World Trade Center,Il Corallo Trattoria,176 Prince St,40.7262073,-74.00189190000002,4.0,$$,Italian,945
+486,50fWXrNECQQYght4ZWeBXQ,World Trade Center,Taureau,558 Broome St,40.724511,-74.005701,4.5,$$$,Fondue,574
+487,4zBGXDXg9DzK0IROwCUeFg,World Trade Center,Cowgirl Seahorse,259 Front St,40.708135799999994,-74.0004532,4.0,$$,Tex-Mex,584
+488,qByYLfBKtNUIAui0eu-fNQ,World Trade Center,Mermaid Oyster Bar,79 MacDougal St,40.728789899999995,-74.00165,4.0,$$,Seafood,1086
+489,fvYQeoC42TkIyPTSVEQWvw,World Trade Center,Bill's Bar & Burger Downtown,85 West St,40.709363010959,-74.01418045163159,3.5,$$,Bars,560
+490,XBWO26QblInZGftnSDD94A,World Trade Center,Maman Tribeca,211 W Broadway,40.7188969,-74.0062207,4.0,$$,Bakeries,258
+491,jJqZrvbMK6CAft44m7UPFA,World Trade Center,Aroma Espresso Bar,100 Church St,40.7130021842013,-74.0099036917633,3.5,$$,Coffee & Tea,344
+492,pasWmob-dg6RkqETkO7RWA,World Trade Center,Mighty Quinn's Barbeque,225 Liberty St,40.712545,-74.0156618,3.5,$$,Barbeque,270
+493,DF7PV0DE9z0LM4ae6XYeYg,World Trade Center,Harry's Italian,2 Gold St,40.707555318913,-74.006898168681,3.5,$$,Pizza,581
+494,vtKxYnrZld4w6wG82Vm4pg,World Trade Center,Tribeca Grill,375 Greenwich St,40.719609999999996,-74.00990999999999,3.5,$$$,American (New),608
+495,wWhZvkaFrntlSf1CWvD1Zw,World Trade Center,Cafe Patoro,223 Front St,40.7072720974983,-74.0023160353303,4.5,$,Bakeries,171
+496,PQd4M3cuSgdweWgLgZIslQ,World Trade Center,Inatteso Pizzabar,28 West St,40.705657099999996,-74.0172056,4.0,$$,Italian,314
+497,qBGKigOGn_flCx1apxPzlA,World Trade Center,Piccola Cucina Osteria,196 Spring St,40.72506,-74.00322,4.5,$$,Italian,556
+498,uBGjcW-GuYy_qSvMykuISA,World Trade Center,Pommes Frites,128 Macdougal St,40.730022,-74.000152,4.5,$,Belgian,903
+499,CYf9FmRmjYa2MAnAv1Z4Cw,World Trade Center,Blue Spoon Coffee,90 William St,40.708068,-74.007469,4.0,$,Cafes,188
+500,FyFeyjndrXHDnN-z9-qv_w,World Trade Center,Augustine,5 Beekman St,40.71141,-74.006814,4.0,$$$,French,246
+501,d7Asc4q2ImoPlA_BhfroTQ,World Trade Center,Kesté Pizza & Vino,271 Bleecker St,40.73154,-74.00293,4.0,$$,Pizza,1403
+502,D2qV8sDdHEFlHbVz7VSHRQ,World Trade Center,Black Tap - Soho,529 Broome St,40.723807,-74.004351,3.5,$$,American (Traditional),1181
+503,gjZpcE-X4zQOEqWQPelLgg,World Trade Center,Max,134 W Broadway,40.716879999999996,-74.00835,3.5,$$,Italian,445
+504,lBO2fKhSnvqKDj_C8Uh9aQ,World Trade Center,GRK Fresh Greek - Financial District,111 Fulton St,40.709995,-74.006883484631,3.5,$$,Greek,480
+505,F-QQCnbsw48dfx4qVf-WoQ,World Trade Center,Monk Mcginn's,57 Murray St,40.71432,-74.00972,4.5,$$,American (New),83
+506,rJ4N10Nbh-GM49qOSGFoAw,World Trade Center,Old Xi'an,164 Pearl St,40.705909999999996,-74.00747,4.5,$$,Chinese,198
+507,9HkUue6kUfTIQUlLynWLMQ,World Trade Center,Bosie,506 Laguardia Pl,40.7277403,-73.99955390000001,4.0,$$,Coffee & Tea,938
+508,6qzNc9Z9DHYYleKqrW_K3g,World Trade Center,Takashi,456 Hudson St,40.7313524,-74.0065048,4.0,$$$,Japanese,978
+509,qEe7nIhPfEL6L0-VYhWRrA,World Trade Center,Raku,48 Macdougal St,40.72728,-74.00251999999999,4.5,$$,Japanese,382
+510,B1XdGwZZ5ee2fBdngj7NUw,World Trade Center,Underground Pizza,3 Hanover Sq,40.70499,-74.00961,4.0,$,Pizza,289
+511,15k7iqFbhf4h8L01yggLqg,World Trade Center,Song E Napule,146 W Houston St,40.72813,-74.00188,4.5,$$,Pizza,469
+512,B2S5HWRfxe9G-BhKJix9Yg,World Trade Center,Pegu Club,77 W Houston St,40.726579,-73.999861,4.0,$$$,Lounges,992
+513,cn3JXMq29UfRkFCUD0Bhbw,World Trade Center,Fried Dumpling,106 Mosco St,40.7145984,-73.9993465,3.5,$,Chinese,518
+514,ADHX7nBixDPVlq3OXhny0g,World Trade Center,Faicco's Italian Specialties,260 Bleecker St,40.73113,-74.00305999999999,4.5,$$,Meat Shops,517
+515,fa5a7jksUak7yleWLWMigg,World Trade Center,Joe’s Steam Rice Roll,261 Canal St,40.719019449671706,-74.00082070380451,4.0,$,Hong Kong Style Cafe,272
+516,SXWnyFNLCehVlJPRxk7gAg,World Trade Center,Anejo Tribeca,301 Church St,40.7193829,-74.004417,4.0,$$,Mexican,382
+517,92vOHinyRpz2GI_clH8-uQ,World Trade Center,Sticky's Finger Joint,21 Maiden Ln,40.709308736201294,-74.0090160288361,4.0,$$,Chicken Shop,162
+518,kgXNbPJcumyJ8LS83Hez8g,World Trade Center,Sophie's Cuban Cuisine,73 New St,40.7056891,-74.0124735,3.5,$$,Cuban,419
+519,0WDHtP31HeVY0LP8INiFzQ,World Trade Center,Rice Noodle Cart,153 Centre St,40.717931,-74.000283,4.5,$,Cantonese,150
+520,Mr_ROnIINTdHLWrCcb2z4g,World Trade Center,The Palm Tribeca,206 West St,40.716536312364,-74.012791062411,3.5,$$$,Steakhouses,291
+521,PgTgzq8oKcP2r00YUWL03A,World Trade Center,Sole di Capri,165 Church St,40.715109999999996,-74.00758,4.0,$$,Italian,248
+522,84zvcPTAVCsSVtzCUtSDtA,World Trade Center,Cha Chan Tang 茶餐廳,45 Mott St,40.7153,-73.99896,3.0,$,Chinese,1030
+523,WHQpLvxkCK_BMtF8pIShnQ,World Trade Center,Carroll Place,157 Bleecker St,40.7287,-73.99971,4.0,$$,Italian,1077
+524,sySAZxvH4LvSGJRLmCP19A,World Trade Center,Aux Epices,121 Baxter St,40.7181073647053,-73.9991025383579,4.0,$$,French,318
+525,D9nQb14gqhCAOaUUvJz3-Q,World Trade Center,Reserve Cut,40 Broad St,40.7059085,-74.011808,4.0,$$$$,Steakhouses,270
+526,b42PcC1nCP602fiXF0a9Xg,World Trade Center,Barbalu Restaurant,225-227 Front St,40.707474700000006,-74.00204040000001,4.0,$$,Italian,285
+527,s_YuHngBngWwzpcKNIM71A,World Trade Center,Pi Bakerie,512 Broome St,40.72361,-74.00329,4.5,$$,Bakeries,267
+528,4h4Tuuc56YPO6lWfZ1bdSQ,World Trade Center,Joe's Pizza,124 Fulton St,40.710129772908296,-74.00772068649529,4.0,$,Pizza,191
+529,Fuk7jDI2XAcvHxqau5rKWA,World Trade Center,Acqua Restaurant NYC,"21 Peck Slip, Water St",40.70825670000001,-74.001797,4.0,$$,Seafood,369
+530,ZlwjT-jygnYqM5qDE0CuLQ,World Trade Center,Gigino Trattoria,323 Greenwich St,40.717259999999996,-74.01055,3.5,$$,Italian,256
+531,3cC6UcOj_-FMXRBYlsXFzA,World Trade Center,Two Hands,251 Church St,40.71782,-74.00546999999999,3.5,$$,Breakfast & Brunch,323
+532,wJ-MPdFSPUoChucj-r6YxA,World Trade Center,Dig,225 Liberty St,40.7127509843895,-74.01555694729079,3.5,$$,American (New),175
+533,xeC9vn3dxVVzAMR_aFwfXg,World Trade Center,IL Brigante,214 Front St,40.707491999999995,-74.002571,3.5,$$,Italian,399
+534,9AUVb5HNQl2117Nkl7sP-Q,World Trade Center,Takahachi Tribeca Restaurant,145 Duane St,40.716590000000004,-74.007919,3.5,$$$,Sushi Bars,229
+535,x_oV9aGzq-lNmgPXU_tvbw,World Trade Center,Zucker's Bagels & Smoked Fish,146 Chambers St,40.715576,-74.009849,3.0,$,Delis,655
+536,JcyY0ArcjZhxzLlrBuQuPg,World Trade Center,Maestro Pasta,45 John St,40.709329,-74.007891,4.5,$$,Pasta Shops,68
+537,J4qehrNgX-8fi9-TTiVuBA,World Trade Center,Roti Modern Mediterranean,100 Maiden Ln,40.706518,-74.007133,4.0,$$,Mediterranean,261
+538,nrwOQSXoRXfAYhkdjiUk8g,World Trade Center,Toro Loco,15 Stone St,40.704209999999996,-74.01208000000001,4.0,$$,Cocktail Bars,235
+539,RLJ5BUm89VySJWHHvmSzEQ,World Trade Center,Fish,280 Bleecker St,40.731734,-74.003463,4.0,$$,Seafood,1439
+540,C-V8rvmamxMzu7EoQkcFrg,World Trade Center,Kesté,77 Fulton St,40.709132000000004,-74.004676,4.0,$$,Pizza,181
+541,4x4M_p_b8GvLkc4fe00GHA,World Trade Center,Biryani House Cart,140 Broadway,40.70865,-74.01011,4.0,$,Indian,160
+542,o2QR6wrQgTsWAMrd1sTjOA,World Trade Center,Dig,80 Broad St,40.7042826,-74.011963,4.0,$$,American (New),250
+543,P_UREWCQxEYVbBa-KW_Wew,World Trade Center,EN Japanese Brasserie,435 Hudson St,40.7306,-74.00698,4.0,$$$,Japanese,1246
+544,anayUOcPkiAvijszwOf_Rw,World Trade Center,Spring Cafe,153D Centre St,40.71792,-74.00021,4.5,$,Vegan,95
+545,EqZEbtu-91BdCPd4chXPVw,World Trade Center,Magic Mix Juicery,102 Fulton St,40.70961,-74.00673499999999,4.0,$$,Juice Bars & Smoothies,187
+546,hh0ae47ojPqq3USCRLmAjg,World Trade Center,Tomoe Sushi,172 Thompson St,40.7277,-74.0001599,4.0,$$$,Sushi Bars,947
+547,B-MDhRKRTmTqj4Vp_p8AGw,World Trade Center,P.J. Clarke's,250 Vesey St,40.7136996616618,-74.0162283182144,3.0,$$,American (Traditional),549
+548,ttE1oTYNRzK51h8FyIX36g,World Trade Center,Underdog,55 Stone St,40.704436227679295,-74.0102791786194,3.5,$$,Burgers,328
+549,xzN2k19JXDYjOWAhNw62aw,World Trade Center,Adoro Lei,287 Hudson St,40.725612,-74.00791600000001,4.5,$$,Italian,291
+550,dvkQIG20RjgNi-SwRr_1CQ,World Trade Center,MAMO Restaurant,323 W Broadway,40.72186,-74.00381999999999,4.0,$$$,Italian,253
+551,ZoVVcwwbCxIhEmstLWrRvw,World Trade Center,The Hummus & Pita,79 Chambers St,40.71474,-74.00671,4.0,$,Mediterranean,195
+552,DC58K8Z_piVm7iAK0ZI_tQ,World Trade Center,Bobby Van's Steakhouse,25 Broad St,40.70606,-74.01114,3.5,$$$,Steakhouses,394
+553,pepM7-yv4-jCT6S1nl6fPg,World Trade Center,Asian Spicy Curry Pop-up,46 Mulberry St,40.715031,-73.99931,4.5,$,Asian Fusion,141
+554,7_hGsGEkHrjgAiYVjrCFnw,World Trade Center,Carbone,181 Thompson St,40.728,-74.0001497,4.0,$$$$,Italian,1012
+555,mn6JM5lHuSSsG9KSXck3ww,World Trade Center,Ulysses Folk House,95 Pearl St,40.7042799890041,-74.00991909205909,3.0,$$,Pubs,754
+556,ZT4QlKmfN7SO4gbha2BUlg,World Trade Center,Humble Fish,35 Lispenard St,40.71996,-74.00354,4.0,$$,Poke,172
+557,0BzxIsoRuFvxbMPl-iH70A,World Trade Center,Market Table,54 Carmine St,40.729765925587294,-74.00376652778621,4.0,$$$,American (New),789
+558,7zxV9U7_SJ1npeLCkHUzjg,World Trade Center,Yankee Doodle Dandy's,,40.714240000000004,-74.00641999999999,4.0,$,Food Trucks,118
+559,HD0e3eHwv573qHZOJJitWg,World Trade Center,Aurora Soho,510 Broome St,40.723543,-74.003199,4.0,$$$,Italian,462
+560,yA29ur97O7B6kYr1g5IoAw,World Trade Center,Aroy Dee Thai Kitchen,20 John St,40.709678600000004,-74.0089569,3.5,$$,Thai,395
+561,Cd11Q5nxqthvg5xQx2SW2g,World Trade Center,Tasty Dumpling,42 Mulberry St,40.7149408310765,-73.9995409548283,3.5,$,Chinese,500
+562,L0g4PLqpgWz0OkpGFbUTZA,World Trade Center,Mudville Tribeca,126 Chambers St,40.71524,-74.00889000000001,3.5,$$,American (Traditional),392
+563,wrvIZaT5rTmk0YpIvQbvHw,World Trade Center,Murray's Cheese Bar,264 Bleecker St,40.7312,-74.00322,4.0,$$,American (New),781
+564,HGNqWrRYJNyhJSS8yia8HQ,World Trade Center,Ruchi,120 Cedar St,40.709532,-74.012702,3.5,$$,Indian,361
+565,AR_0QV4O12sHojkky_IMkg,World Trade Center,Canal Street Market,265 Canal St,40.71897,-74.00102,4.0,$$,Food Court,191
+566,6dSiCqC9x51PZRMOvdQTpA,World Trade Center,Pearl Oyster Bar,18 Cornelia St,40.731409899999996,-74.00197,4.0,$$$,Seafood,825
+567,tFQRwk9SVOFgpMBZ55UrLw,World Trade Center,Umami Burger - Brookfield Place,225 Liberty St,40.713225,-74.015913,3.0,$$,American (New),307
+568,jsjJxd8NzEnl19VM94bbGw,World Trade Center,Blue Spoon Coffee,76 Chambers St,40.7143174856901,-74.0067286044359,4.0,$,Coffee & Tea,185
+569,z_yu_Qo1xTLeYPBqBM5igA,World Trade Center,Menya Jiro- Fidi,123 William St,40.70933,-74.00714,4.0,$$,Ramen,150
+570,oV424-PaBMTE99BqGLotYQ,World Trade Center,Walker's,16 N Moore St,40.71972,-74.00707,4.0,$$,Diners,292
+571,rlZP-SWgNXH-2Ejp9dHEgw,World Trade Center,Jeremy's Ale House- South Street Seaport,228 Front St,40.70766,-74.00205,4.0,$,Dive Bars,284
+572,VSPkVw9gSQx-5v4A6aC_YA,World Trade Center,Manousheh,193 Bleecker St,40.7293499,-74.00134,4.5,$,Lebanese,428
+573,T_d-JdVD-DVl4DzWqQk9DQ,World Trade Center,View of the World Terrace Club,140 Washington St,40.709845,-74.013894,3.5,$$,American (New),166
+574,R3fMQtSL0MrMUyW_Q32oNw,World Trade Center,NAYA,One New York Plz,40.7021301747589,-74.01183627685991,4.5,$,Lebanese,147
+575,WFyGR8sW10AzbAoQ4T7Ung,World Trade Center,The Paris Cafe,119 South St,40.70732,-74.00159000000001,4.0,$$,Seafood,319
+576,kpR9je2H9MjKz6zpesyV6g,World Trade Center,Thailicious,75 Baxter St,40.7162609,-73.99990629999999,4.0,$$,Thai,291
+577,I_YPy_YRtZFyWOSWs-gv4A,World Trade Center,Luckyim Thai,,40.7065887451172,-74.0096130371094,4.0,$,Food Trucks,163
+578,fanlKZzN-fI9LywqQD6EHg,World Trade Center,Broadstone Bar & Kitchen,88 Broad St,40.70411,-74.01186,4.0,$$,American (New),247
+579,NgPXeIWQicIXxjxSlGXvjA,World Trade Center,Black Burger,386 Canal St,40.721379999999996,-74.00497,4.0,$$,Burgers,329
+580,fkKcK6BFZehJZTP2roO5JA,World Trade Center,Pier A Harbor House,22 Battery Pl,40.704364,-74.018051,3.0,$$,Bars,640
+581,0oRYwB_SLqjHptvUQwwe2w,World Trade Center,Tajin,85 Greenwich St,40.70772,-74.01356,3.5,$$,Mexican,233
+582,8Y5Ytn30Wup9sNf2n99s1A,World Trade Center,NOMO Kitchen,9 Crosby St,40.7198301,-74.0000708,3.5,$$,American (New),534
+583,Ai9zcAveCf-eRPup4HIXhw,World Trade Center,Shorty's,62 Pearl St,40.7034454,-74.0110779,4.0,$$,Sandwiches,274
+584,u0bYCPlbJ85_lDjnZQ_e3w,World Trade Center,Kaigo Coffee Room,120C Lafayette St,40.718702982239705,-74.00047253708779,4.5,$$,Coffee & Tea,153
+585,Rj2ACaJcbroJLPDhRhzvBw,World Trade Center,Shuka,38 MacDougal St,40.72707,-74.00283,4.0,$$,Mediterranean,459
+586,XSvT4-d8mDeXBJDoG7pZHw,World Trade Center,d Elici,71 Nassau St,40.709712647789395,-74.00838198326458,4.0,$,Salad,109
+587,C7e6WIM4CFa4EkzxHWHBRA,World Trade Center,PhoBar,43 Mott St,40.7152346,-73.99900790000001,4.0,$$,Vietnamese,233
+588,uQ4HZzNarBBNcTKZSIY-vA,World Trade Center,Black Fox Coffee,70 Pine St,40.7063449,-74.0076944,4.0,$$,Cafes,192
+589,_94vfFroevCsC4plhWnvjw,World Trade Center,Num Pang Kitchen,225 Liberty St,40.712455,-74.015304,3.5,$$,Sandwiches,185
+590,Q2dKbHvXwmJuoaf1Yahfxw,World Trade Center,Miramar,21 S End Ave,40.70814,-74.01779,4.0,$$,Seafood,187
+591,7-Rr97T-mcgVvL1yTTCAXg,World Trade Center,Jack's Stir Brew Coffee,222 Front St,40.707633,-74.002356,4.0,$,Coffee & Tea,195
+592,ECemz7ixbRYZkkDxThcQWg,World Trade Center,Vietspot,99 Nassau St,40.7105473460815,-74.0075637236421,3.5,$$,Vietnamese,300
+593,4b43TOXpskBPZqQzbKkwDQ,World Trade Center,Le Botaniste,127 Grand St,40.720427799999996,-74.0002028,4.5,$$,Vegetarian,136
+594,HrdIdeDZBTUdyEdSTPG1zg,World Trade Center,Jack's Wife Freda,50 Carmine St,40.729826,-74.003516,4.0,$$,Mediterranean,847
+595,Dq_KwjD7WpGmgrXiu0qEOg,World Trade Center,Made Fresh Daily,226 Front St,40.70769,-74.00220999999999,4.0,$$,Coffee & Tea,194
+596,1MqGlFP3b7H77fzUkJMKgw,World Trade Center,Mooncake Foods,112 6th Ave,40.7237776,-74.00456199999999,4.0,$$,Vietnamese,515
+597,qCrM1gDsY7bc3Tk61VBIBQ,World Trade Center,Savida,139 Duane St,40.71645,-74.00783,4.5,$$$$,Mediterranean,74
+598,RJ7WP7PaYz_-4X2XgXl5uA,World Trade Center,Potbelly Sandwich Shop,101 Maiden Ln,40.7070133727982,-74.0069238742571,4.0,$,Sandwiches,200
+599,BA6wd1pZTVu1DmrtiyTs8g,World Trade Center,Raoul's Restaurant,180 Prince St,40.72615,-74.00216,4.0,$$$,French,491
+600,tKpTRuNe7JJD6IYFPVCXNg,World Trade Center,Mariachi's,156 Chambers St,40.715751000000004,-74.01021899999999,3.5,$$,Mexican,244
+601,HsqaGB90PYkI0En3rrtupQ,World Trade Center,Kaede Japanese Restaurant,90 Chambers St,40.714458,-74.007439,3.5,$$,Japanese,185
