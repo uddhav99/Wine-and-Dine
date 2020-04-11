@@ -24,3 +24,5 @@ print(newdata)
 fig = px.scatter_mapbox(df4, lat="lat", lon="long", color="review_count", text = "category", hover_name = "restaurant_name", size="rating",
                   color_continuous_scale=px.colors.cyclical.IceFire, size_max=15, zoom=10)
 fig.show()
+
+df4.to_csv('Restaurants.csv')
