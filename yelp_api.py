@@ -46,7 +46,7 @@ def getData(lat,long_,location,offset):
     api_key = 'ViVcJp0uJf0RJ32VQJKZIDhWxRfSS08elfK4fX31-s8BuL2nUT8h-b50QsPDHbWDOmt3NqAPu8e0rjPhVoupai8KwCGLa6EZmR4nZARu3P2g6k_JpT9-CxQXfguNXnYx'
     headers = {'Authorization': 'Bearer %s' % api_key}
     url='https://api.yelp.com/v3/businesses/search'
-    params = {'latitude':lat,'longitude':long_,'radius':'1610','categories':'restaurants','offset':offset}
+    params = {'latitude':lat,'longitude':long_,'categories':'restaurants','offset':offset}
     try:
         req=requests.get(url, params=params, headers=headers)
         print("Fetching data from Yelp API...")
@@ -60,6 +60,6 @@ def getData(lat,long_,location,offset):
 # getData('40.7829','-73.9654','Central Park')
 # getData('40.7580','-73.9855','Times Square')
 if __name__ == "__main__":
-    # offset = input("Enter an offset: ")
-    # getData('40.7127','-74.0134','World Trade Center',offset)
-    getCategories()
+    offset = input("Enter an offset: ")
+    getData('40.7580','-73.9855','Times Square',offset)
+    #getCategories()
