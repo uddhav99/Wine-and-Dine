@@ -7,7 +7,7 @@ import pandas as pd
 def setUpDatabase(data,location):
     conn = sqlite3.connect('restaurants.sqlite')
     cur = conn.cursor()
-    cur.execute('''CREATE TABLE IF NOT EXISTS Restaurants (restaurant_id TEXT PRIMARY KEY, restaurant_name TEXT, location TEXT, address TEXT, lat REAL, long REAL, rating REAL, price TEXT,category TEXT,review_count INTEGER)''')
+    cur.execute('''CREATE TABLE IF NOT EXISTS Popular_Restaurants (restaurant_id TEXT PRIMARY KEY, restaurant_name TEXT, location TEXT, address TEXT, lat REAL, long REAL, rating REAL, price TEXT,category TEXT,review_count INTEGER)''')
     for business in data["businesses"]:
         restaurant_id = business['id']
         name = business['name']
@@ -29,7 +29,7 @@ def setUpDatabase(data,location):
             price = 4.0
         category = business['categories'][0]['title']
         review_count = business['review_count']
-        cur.execute("INSERT OR IGNORE INTO Restaurants (restaurant_id,restaurant_name,location,address,lat,long,rating,price,category,review_count) VALUES (?,?,?,?,?,?,?,?,?,?)",(restaurant_id,name,location,address,lat,longitude,rating,price,category,review_count))
+        cur.execute("INSERT OR IGNORE INTO Popular_Restaurants (restaurant_id,restaurant_name,location,address,lat,long,rating,price,category,review_count) VALUES (?,?,?,?,?,?,?,?,?,?)",(restaurant_id,name,location,address,lat,longitude,rating,price,category,review_count))
         conn.commit()
 
 def getCategories():
@@ -42,11 +42,11 @@ def getCategories():
         category_list.append(item[0])
     print(category_list)
     
-def getData(lat,long_,location,offset):
+def getData(location,offset):
     api_key = 'ViVcJp0uJf0RJ32VQJKZIDhWxRfSS08elfK4fX31-s8BuL2nUT8h-b50QsPDHbWDOmt3NqAPu8e0rjPhVoupai8KwCGLa6EZmR4nZARu3P2g6k_JpT9-CxQXfguNXnYx'
     headers = {'Authorization': 'Bearer %s' % api_key}
     url='https://api.yelp.com/v3/businesses/search'
-    params = {'latitude':lat,'longitude':long_,'categories':'restaurants','offset':offset}
+    params = {'location':location,'categories':'restaurants','offset':offset}
     try:
         req=requests.get(url, params=params, headers=headers)
         print("Fetching data from Yelp API...")
@@ -61,5 +61,5 @@ def getData(lat,long_,location,offset):
 # getData('40.7580','-73.9855','Times Square')
 if __name__ == "__main__":
     offset = input("Enter an offset: ")
-    getData('40.7580','-73.9855','Times Square',offset)
+    getData('NYC',offset)
     #getCategories()
