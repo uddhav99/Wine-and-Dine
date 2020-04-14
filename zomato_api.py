@@ -56,10 +56,10 @@ def get_data(latitude, longitude, offset, location):
     api_key = "acbe0ae5e8a689201ddcedb43ad95579"
     base_url = "https://developers.zomato.com/api/v2.1/search?"
     headers = {'Accept':'application/json', 'user-key': api_key}
-    # params = {'start':offset, '&count':1, '&lat':latitude, '&lon':longitude, '&radius':805} 
+    params = {'start':offset, 'count':20, 'lat':latitude, 'lon':longitude, 'radius':805} 
     #try:
-    check = base_url + "start=" + str(offset) + "&lat=" + str(latitude) + "&lon=" + str(longitude) + "&radius=805"  
-    req=requests.get(check, headers=headers)
+    #check = base_url + "start=" + str(offset) + "&lat=" + str(latitude) + "&lon=" + str(longitude) + "&radius=805"  
+    req=requests.get(base_url, params = params, headers=headers)
     print("Fetching data from Zomato API...")
     data = json.loads(req.text)
     set_table(data,location)
@@ -72,5 +72,5 @@ def get_data(latitude, longitude, offset, location):
 
 if __name__ == "__main__":
     offset = input("Enter an offset: ")
-    get_data(40.7580,-73.9855,offset,'Times Square')
-    #get_data('40.7829','-73.9654',offset,'Central Park')
+    # get_data(40.7127,-74.0134,offset,'Times Square')
+    get_data('40.7127','-74.0134',offset,'Central Park')
