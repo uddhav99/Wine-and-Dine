@@ -116,7 +116,7 @@ def chloropleth_maps(conn, cur):
     fig2.update_layout(title = "Distribution of restaurants, colored by rating", mapbox = dict(accesstoken = token,
                         style = 'dark', zoom = 12.0, center = {'lat': 40.75113, 'lon':-73.97347}))
 
-    plotly.offline.plot(fig, filename = "./visualisations/scattermap-ratings.html")
+    plotly.offline.plot(fig2, filename = "./visualisations/scattermap-ratings.html")
 
 
 if __name__ == "__main__":

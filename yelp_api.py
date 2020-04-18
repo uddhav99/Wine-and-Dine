@@ -31,16 +31,6 @@ def setUpDatabase(data):
         review_count = business['review_count']
         cur.execute("INSERT OR IGNORE INTO Popular_Restaurants (restaurant_id,restaurant_name,location,address,lat,long,rating,price,category,review_count) VALUES (?,?,?,?,?,?,?,?,?,?)",(restaurant_id,name,location,address,lat,longitude,rating,price,category,review_count))
         conn.commit()
-
-def getCategories():
-    conn = sqlite3.connect('restaurants.sqlite')
-    cur = conn.cursor()
-    cur.execute('SELECT category FROM Restaurants')
-    database_list = cur.fetchall()
-    category_list = []
-    for item in database_list:
-        category_list.append(item[0])
-    print(category_list)
     
 def getData(location,offset):
     api_key = 'ViVcJp0uJf0RJ32VQJKZIDhWxRfSS08elfK4fX31-s8BuL2nUT8h-b50QsPDHbWDOmt3NqAPu8e0rjPhVoupai8KwCGLa6EZmR4nZARu3P2g6k_JpT9-CxQXfguNXnYx'
@@ -57,9 +47,6 @@ def getData(location,offset):
         data = {}
     print('Pausing for a bit...')
     time.sleep(5)
-# getData('40.7829','-73.9654','Central Park')
-# getData('40.7580','-73.9855','Times Square')
 if __name__ == "__main__":
     offset = input("Enter an offset: ")
     getData('NYC',offset)
-    #getCategories()
