@@ -4,14 +4,14 @@ import sqlite3
 import time
 import pandas as pd
 
-def setUpDatabase(data,location):
+def setUpDatabase(data):
     conn = sqlite3.connect('restaurants.sqlite')
     cur = conn.cursor()
     cur.execute('''CREATE TABLE IF NOT EXISTS Popular_Restaurants (restaurant_id TEXT PRIMARY KEY, restaurant_name TEXT, location TEXT, address TEXT, lat REAL, long REAL, rating REAL, price TEXT,category TEXT,review_count INTEGER)''')
     for business in data["businesses"]:
         restaurant_id = business['id']
         name = business['name']
-        location = location
+        location = business['location']['city']
         address = business['location']['address1']
         lat = business['coordinates']['latitude']
         longitude = business['coordinates']['longitude']
@@ -51,7 +51,7 @@ def getData(location,offset):
         req=requests.get(url, params=params, headers=headers)
         print("Fetching data from Yelp API...")
         data = json.loads(req.text)
-        setUpDatabase(data,location)
+        setUpDatabase(data)
     except:
         print("Exception")
         data = {}
