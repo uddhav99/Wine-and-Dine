@@ -56,6 +56,8 @@ def join(conn, cur):
     
     plotly.offline.plot(fig3, filename = "./visualisations/review-correlation.html")
 
+    df.to_csv("Calculations.csv",index=False)
+
 def scatter_plot(conn, cur):
     cur.execute('''SELECT Popular_Restaurants.restaurant_name, Popular_Restaurants.rating, Popular_Restaurants.price, 
                 Popular_Restaurants.review_count FROM Popular_Restaurants''')
