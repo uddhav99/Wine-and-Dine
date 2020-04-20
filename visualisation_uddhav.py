@@ -8,8 +8,8 @@ import os
 
 def join(conn, cur):
     cur.execute('''SELECT Popular_Restaurants.restaurant_name, Popular_Restaurants.price, Popular_Restaurants.rating, Popular_Restaurants.review_count,
-                 Central_Park_Zomato.price, Central_Park_Zomato.rating, Central_Park_Zomato.review_count FROM Popular_Restaurants JOIN Central_Park_Zomato
-                 ON Central_Park_Zomato.restaurant_name = Popular_Restaurants.restaurant_name''')
+                 Zomato_Restaurants.price, Zomato_Restaurants.rating, Zomato_Restaurants.review_count FROM Popular_Restaurants JOIN Zomato_Restaurants
+                 ON Zomato_Restaurants.restaurant_name = Popular_Restaurants.restaurant_name''')
     data = cur.fetchall()
     column_names = ["restaurant_name", "yelp_price", "yelp_rating", "yelp_reviews", "zomato_price", "zomato_rating", "zomato_reviews"]
     df = pd.DataFrame(data, columns=column_names)
@@ -65,8 +65,8 @@ def scatter_plot(conn, cur):
     column_names = ["restaurant_name", "rating", "price", "reviews"]
     yelp = pd.DataFrame(data, columns=column_names)
     yelp['price'] = yelp.price.astype(float)
-    cur.execute('''SELECT Central_Park_Zomato.restaurant_name, Central_Park_Zomato.rating, Central_Park_Zomato.price, 
-                Central_Park_Zomato.review_count FROM Central_Park_Zomato''')
+    cur.execute('''SELECT Zomato_Restaurants.restaurant_name, Zomato_Restaurants.rating, Zomato_Restaurants.price, 
+                Zomato_Restaurants.review_count FROM Zomato_Restaurants''')
     data2 = cur.fetchall()
     zomato = pd.DataFrame(data2, columns=column_names)
 
@@ -94,8 +94,8 @@ def chloropleth_maps(conn, cur):
     column_names = ["restaurant_name", "rating", "price", "latitude", "longitude"]
     yelp = pd.DataFrame(data, columns=column_names)
     yelp['price'] = yelp.price.astype(float)
-    cur.execute('''SELECT Central_Park_Zomato.restaurant_name, Central_Park_Zomato.rating, Central_Park_Zomato.price, 
-                Central_Park_Zomato.lat, Central_Park_Zomato.long FROM Central_Park_Zomato''')
+    cur.execute('''SELECT Zomato_Restaurants.restaurant_name, Zomato_Restaurants.rating, Zomato_Restaurants.price, 
+                Zomato_Restaurants.lat, Zomato_Restaurants.long FROM Zomato_Restaurants''')
     data2 = cur.fetchall()
     zomato = pd.DataFrame(data2, columns=column_names)
 
