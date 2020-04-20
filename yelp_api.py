@@ -5,11 +5,10 @@ import time
 import pandas as pd
 
 def setUpDatabase(data,conn,cur):
-    cur.execute('''CREATE TABLE IF NOT EXISTS Popular_Restaurants (restaurant_id TEXT PRIMARY KEY, restaurant_name TEXT, location TEXT, address TEXT, lat REAL, long REAL, rating REAL, price TEXT,category_id INTEGER,review_count INTEGER)''')
+    cur.execute('''CREATE TABLE IF NOT EXISTS Popular_Restaurants (restaurant_id TEXT PRIMARY KEY, restaurant_name TEXT, address TEXT, lat REAL, long REAL, rating REAL, price TEXT,category_id INTEGER,review_count INTEGER)''')
     for business in data["businesses"]:
         restaurant_id = business['id']
         name = business['name']
-        location = business['location']['city']
         address = business['location']['address1']
         lat = business['coordinates']['latitude']
         longitude = business['coordinates']['longitude']
@@ -28,7 +27,7 @@ def setUpDatabase(data,conn,cur):
         cur.execute('SELECT id FROM Categories_Yelp WHERE title= ?',(business['categories'][0]['title'],))
         category_id = cur.fetchone()[0]
         review_count = business['review_count']
-        cur.execute("INSERT OR IGNORE INTO Popular_Restaurants (restaurant_id,restaurant_name,location,address,lat,long,rating,price,category_id,review_count) VALUES (?,?,?,?,?,?,?,?,?,?)",(restaurant_id,name,location,address,lat,longitude,rating,price,category_id,review_count))
+        cur.execute("INSERT OR IGNORE INTO Popular_Restaurants (restaurant_id,restaurant_name,address,lat,long,rating,price,category_id,review_count) VALUES (?,?,?,?,?,?,?,?,?)",(restaurant_id,name,address,lat,longitude,rating,price,category_id,review_count))
         conn.commit()
 
 def getCategories(data,conn,cur):
