@@ -39,10 +39,9 @@ def getCategories(data,conn,cur):
             if category['title'] not in category_list:
                 category_list.append(category['title'])
 
-    cur.execute("DROP TABLE IF EXISTS Categories_Yelp")
-    cur.execute("CREATE TABLE Categories_Yelp (id INTEGER PRIMARY KEY, title TEXT)")
+    cur.execute("CREATE TABLE IF NOT EXISTS Categories_Yelp (id INTEGER PRIMARY KEY, title TEXT UNIQUE)")
     for i in range(len(category_list)):
-        cur.execute("INSERT INTO Categories_Yelp (id,title) VALUES (?,?)",(i,category_list[i]))
+        cur.execute("INSERT OR IGNORE INTO Categories_Yelp (title) VALUES (?)",(category_list[i], ))
     conn.commit()
     
 def getData(location,offset):
