@@ -24,5 +24,5 @@ Python, SQLite, HTML
 Read the SI_206_Final_Project_Report.pdf to know more about the goals, challenges, accomplishments of this project. 
 
 ## Team
-Uddhav Bhagat
-Alexander Cotignola
+- Uddhav Bhagat
+- Alexander Cotignola
